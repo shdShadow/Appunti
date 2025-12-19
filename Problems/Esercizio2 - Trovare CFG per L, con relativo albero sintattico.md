@@ -16,3 +16,5 @@ Scriviamo le regole di produzione:
 Scriviamo ora alcuni esempi di derivazione con i relativi alberi sintattici:
 - $S \Rightarrow aXd \Rightarrow ad$
 - $S \Rightarrow aSd \Rightarrow aaSdd \Rightarrow aaaXddd \Rightarrow aaabXcddd \Rightarrow aaabcddd$
+ 
+![[Pasted image 20251219195706.png]]

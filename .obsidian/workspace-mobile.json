@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "5f6d875ca70d06c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "22dae08700beaa52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d350636c738aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Grammatiche CF - CFG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grammatiche CF - CFG"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c89ffbc4d213080",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "85f6fc312a8f5398",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3ba677ca61079c84",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e56f54275ae0b0ea",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "226cdab6e153a6aa",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "8634965880864202",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c90434a891bfc55b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6868ba6fd0ee1021",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Concepts/Grammatiche CF - CFG.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "04d2e81278d4b4dc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Concepts/Grammatiche CF - CFG.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3c21c6e12611c71c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Concepts/Grammatiche CF - CFG.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "08d350636c738aa8",
+  "lastOpenFiles": [
+    "Concepts/Grammatica.md",
+    "Untitled.base",
+    "Problems/Esercizio3 - Trovare CFG per linguaggio L, con relativo albero sintattico.md",
+    "Attachments/Pasted image 20251219195742.png",
+    "Problems/Esercizio2 - Trovare CFG per L, con relativo albero sintattico.md",
+    "Attachments/Pasted image 20251219195706.png",
+    "Attachments/Pasted image 20251219195648.png",
+    "Problems/Esercizio1 - Trovare CFG per L, con relativo albero sintattico.md",
+    "Attachments",
+    "Attachments/Pasted image 20251219191459.png"
+  ]
+}

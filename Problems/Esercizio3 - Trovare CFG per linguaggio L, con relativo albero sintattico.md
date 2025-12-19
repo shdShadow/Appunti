@@ -19,3 +19,4 @@ Queste derivano i sottolinguaggi separatamente, ma come faccio a concatenarli?
 Facciamo un esempio di derivazione:
 $S \Rightarrow aXbY \Rightarrow abY \Rightarrow abcYd \Rightarrow abccYdd \Rightarrow abccdd$
 con il relativo albero sintattico:
+![[Pasted image 20251219195742.png]]
