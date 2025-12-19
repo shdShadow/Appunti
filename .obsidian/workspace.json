@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "fc7d81721deca003",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b5dacf248071e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b159506ad045577f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Esercizio - CFG per L con disequazione di esponenti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercizio - CFG per L con disequazione di esponenti"
+            }
+          },
+          {
+            "id": "43b21a33a197bdba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Esercizio3 - Fornire una CFG per il linguaggio L.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercizio3 - Fornire una CFG per il linguaggio L"
+            }
+          },
+          {
+            "id": "e9c54b5cbd135fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Esercizio2 - Trovare CFG per L, con relativo albero sintattico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercizio2 - Trovare CFG per L, con relativo albero sintattico"
+            }
+          },
+          {
+            "id": "2933abe8060b7ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/derivazione in zero o piu' passi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "derivazione in zero o piu' passi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52e637343c773295",
+    "type": "split",
+    "children": [
+      {
+        "id": "dddba3f40f10a5bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58fd347836b74fc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5e34c0905ffa2b93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "forma sentenziale",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cdf3368328073a1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0b4a6d6079e9503",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce80d2710aa6bc5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7ddd9113932a1a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nomi_scopi_binding.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for nomi_scopi_binding"
+            }
+          },
+          {
+            "id": "3c938f562de4b40d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nomi_scopi_binding.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from nomi_scopi_binding"
+            }
+          },
+          {
+            "id": "c4ca320133bfcc6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b1b1671c8dfa8c39",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9b8b3cb601f4d1bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Type System.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Type System"
+            }
+          },
+          {
+            "id": "648c63157a796c7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Concepts/derivazione in uno o piu' passi.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for derivazione in uno o piu' passi"
+            }
+          },
+          {
+            "id": "84d8c588551898d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b159506ad045577f",
+  "lastOpenFiles": [
+    "Problems/Esercizio - Derivazioni partendo da grammatica delle espressioni.md",
+    "Problems/Esercizio - Generiamo 101101.md",
+    "Problems/Esercizio 1- Fornire una CFG per il linguaggio L.md",
+    "Problems/Esercizio 2 - Fornire CFG per linguaggio L.md",
+    "Problems/Esercizio3 - Fornire una CFG per il linguaggio L.md",
+    "Problems/Esercizio4 - Fornire CFG per il linguaggio L.md",
+    "Problems/Esercizio3 - Trovare CFG per linguaggio L, con relativo albero sintattico.md",
+    "Problems/Esercizio2 - Trovare CFG per L, con relativo albero sintattico.md",
+    "Concepts/Forme sentenziali.md",
+    "Concepts/Grammatica.md",
+    "Concepts/Grammatiche CF - CFG.md",
+    "Concepts/regole-di-pruduzione.md",
+    "Concepts/Simboli Terminali.md",
+    "Problems/Esercizio - CFG per L con disequazione di esponenti.md",
+    "Problems/Esercizio - CFG per L con esponenti sommati.md",
+    "Problems/Esercizio - Creazione Grammatica partendo da Linguaggio delle parentesi bilanciate.md",
+    "Concepts/CFL - Context Free Language.md",
+    "Problems/Esercizio1 - Trovare CFG per L, con relativo albero sintattico.md",
+    "Concepts/derivazione leftmost e rightmost.md",
+    "Concepts/Alberi Sintattici.md",
+    "Untitled.base",
+    "Problems/Esercizio - Inferenza Ricorsiva della stringa a  (a + b00)..md",
+    "Concepts/passo di derivazione.md",
+    "Concepts/Come si genera una stringa.md",
+    "Concepts/Cosa rappresenta una grammatica.md",
+    "Concepts/derivazione in zero o piu' passi.md",
+    "Problems/Esercizio - Inferenza Ricorsiva della stringa a * (a + b00)..md",
+    "Untitled 1",
+    "LinguaggiDiProgrammazione/confronto.png",
+    "Untitled",
+    "LinguaggiDiProgrammazione/nigga.base",
+    "LinguaggiDiProgrammazione",
+    "zk-sample.zip",
+    "Attachments",
+    "Meta",
+    "Problems",
+    "Concepts",
+    "LinguaggiDiProgrammazione/record2.png",
+    "LinguaggiDiProgrammazione/record.png",
+    "LinguaggiDiProgrammazione/Pasted image 20251212154346.png",
+    "Untitled.canvas"
+  ]
+}
