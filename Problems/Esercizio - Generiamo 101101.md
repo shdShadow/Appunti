@@ -3,6 +3,7 @@ tags:
   - evergreen
   - esercizio
 course: Linguaggi e Computabilita'
+chapter: "5"
 ---
 # Problema
 Consideriamo sempre la seguente grammatica che genera il linguaggio delle stringhe binarie palindrome:

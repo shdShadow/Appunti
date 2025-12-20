@@ -1,3 +1,9 @@
+---
+tags:
+  - esercizio
+course: Linguaggi e Computabilita'
+chapter: "5"
+---
 - [[Grammatiche CF - CFG]]
 - [[Grammatica]]
 - [[CFL - Context Free Language]]

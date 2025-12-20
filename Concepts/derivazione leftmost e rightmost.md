@@ -2,6 +2,7 @@
 tags:
   - draft
 course: Linguaggi e Computabilita'
+chapter: "5"
 ---
 Si parla di derivazione di una stringa leftmost o rightmost rispettivamente quando vado a sostituire sempre la variabile piu' a sinistra o piu' a destra durante l'applicazione delle [[regole-di-pruduzione]] (durante i vari [[passo di derivazione|passi di derivazione]]) di una [[Grammatica]].
 
@@ -15,3 +16,9 @@ Inoltre, durante la derivazione di una stringa e' possibile anche mischiare deri
 
 ## Ma per gli [[Alberi Sintattici]]?
 Gli alberi sintattici di per se' non cambiano, cambia pero' il modo in cui li visito: Da sinistra verso destra oppure da destra verso sinistra.
+
+# Backlinks
+- [[Alberi Sintattici]]
+- [[derivazione leftmost e rightmost]]
+- [[derivazione in zero o piu' passi]]
+- [[Come si genera una stringa]]
