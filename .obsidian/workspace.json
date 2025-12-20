@@ -11,45 +11,63 @@
             "id": "43b21a33a197bdba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Problems/Esercizio - Derivazioni partendo da grammatica delle espressioni.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esercizio - Derivazioni partendo da grammatica delle espressioni"
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "3d_graph_view"
             }
           },
           {
-            "id": "e9c54b5cbd135fc3",
+            "id": "3983b2db3b329d95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Problems/Esercizio2 - Trovare CFG per L, con relativo albero sintattico.md",
+                "file": "Concepts/Grammatiche CF - CFG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Esercizio2 - Trovare CFG per L, con relativo albero sintattico"
-            }
-          },
-          {
-            "id": "2933abe8060b7ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/derivazione in zero o piu' passi.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "derivazione in zero o piu' passi"
+              "title": "Grammatiche CF - CFG"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8a3c7bad3a8212ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d98e6160112f630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linguaggi e Computabilita - Esercizi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linguaggi e Computabilita - Esercizi"
+            }
+          },
+          {
+            "id": "2c7c88f263e66a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problems/Esercizio - CFG per L con disequazione di esponenti.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Esercizio - CFG per L con disequazione di esponenti"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forma sentenziale",
+                "query": "eserc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,17 +140,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Problems/Esercizio - Derivazioni partendo da grammatica delle espressioni.md",
+                "file": "nomi_scopi_binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Esercizio - Derivazioni partendo da grammatica delle espressioni"
+              "title": "Backlinks for nomi_scopi_binding"
             }
           },
           {
@@ -199,10 +217,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Problems/Esercizio - Derivazioni partendo da grammatica delle espressioni.md"
+                "file": "Concepts/derivazione in uno o piu' passi.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Esercizio - Derivazioni partendo da grammatica delle espressioni"
+              "title": "File properties for derivazione in uno o piu' passi"
             }
           },
           {
@@ -214,8 +232,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "11d7ba0de84492c0",
+            "type": "leaf",
+            "state": {
+              "type": "googleTaskView",
+              "state": {},
+              "icon": "check-in-circle",
+              "title": "Google Tasks"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -223,6 +252,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "3d-graph:3D Graph": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -230,28 +261,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph:3D Graph": false
+      "obsidian-google-tasks:Google Tasks": false
     }
   },
-  "active": "43b21a33a197bdba",
+  "active": "2c7c88f263e66a7b",
   "lastOpenFiles": [
-    "Concepts/Alberi Sintattici.md",
-    "Concepts/derivazione leftmost e rightmost.md",
-    "Concepts/Simboli Terminali.md",
-    "Concepts/derivazione in zero o piu' passi.md",
-    "Concepts/regole-di-pruduzione.md",
-    "Concepts/passo di derivazione.md",
-    "Concepts/Grammatiche CF - CFG.md",
-    "Concepts/Grammatica.md",
-    "Concepts/Forme sentenziali.md",
-    "Concepts/Come si genera una stringa.md",
-    "Concepts/Cosa rappresenta una grammatica.md",
-    "Concepts/CFL - Context Free Language.md",
-    "Problems/Esercizio4 - Fornire CFG per il linguaggio L.md",
     "Linguaggi e Computabilita - Esercizi.md",
-    "Meta",
+    "Concepts/Grammatiche CF - CFG.md",
+    "Untitled.base",
+    "Problems/Esercizio4 - Fornire CFG per il linguaggio L.md",
     "Problems/Esercizio3 - Trovare CFG per linguaggio L, con relativo albero sintattico.md",
     "Problems/Esercizio3 - Fornire una CFG per il linguaggio L.md",
     "Problems/Esercizio2 - Trovare CFG per L, con relativo albero sintattico.md",
@@ -264,23 +283,35 @@
     "Problems/Esercizio - Creazione Grammatica partendo da Linguaggio delle parentesi bilanciate.md",
     "Problems/Esercizio - CFG per L con esponenti sommati.md",
     "Problems/Esercizio - CFG per L con disequazione di esponenti.md",
+    "Problems",
+    "LinguaggiDiProgrammazione/record2.png",
+    "LinguaggiDiProgrammazione/record.png",
+    "LinguaggiDiProgrammazione/nomi_scopi_binding.pdf",
+    "LinguaggiDiProgrammazione/confronto.png",
+    "LinguaggiDiProgrammazione/Type System.md",
+    "LinguaggiDiProgrammazione/Tipi di Dato_transient.md",
+    "LinguaggiDiProgrammazione/Pasted image 20251212154346.png",
+    "LinguaggiDiProgrammazione/Obiettivi dell'analisi semantica.md",
+    "LinguaggiDiProgrammazione/Nome, Scopi, Binding.md",
+    "LinguaggiDiProgrammazione",
+    "Concepts/regole-di-pruduzione.md",
+    "Concepts/passo di derivazione.md",
+    "Concepts/derivazione leftmost e rightmost.md",
+    "Concepts/derivazione in zero o piu' passi.md",
+    "Concepts/Simboli Terminali.md",
+    "Concepts/Grammatica.md",
+    "Concepts",
     "Attachments/Pasted image 20251219195742.png",
     "Attachments/Pasted image 20251219195706.png",
     "Attachments/Pasted image 20251219195648.png",
     "Attachments/Pasted image 20251219191459.png",
     "Attachments",
-    "Untitled.base",
-    "Untitled 1",
-    "LinguaggiDiProgrammazione/confronto.png",
-    "LinguaggiDiProgrammazione/nigga.base",
-    "LinguaggiDiProgrammazione",
-    "zk-sample.zip",
-    "Meta",
-    "Problems",
-    "Concepts",
-    "LinguaggiDiProgrammazione/record2.png",
-    "LinguaggiDiProgrammazione/record.png",
-    "LinguaggiDiProgrammazione/Pasted image 20251212154346.png",
+    "Appunti/Untitled.base",
+    "Appunti/Problems",
+    "Appunti/LinguaggiDiProgrammazione/record2.png",
+    "Appunti/LinguaggiDiProgrammazione/record.png",
+    "Appunti/LinguaggiDiProgrammazione/nomi_scopi_binding.pdf",
+    "Appunti/LinguaggiDiProgrammazione",
     "Untitled.canvas"
   ]
 }

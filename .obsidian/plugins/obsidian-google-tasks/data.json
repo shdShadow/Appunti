@@ -1,0 +1,8 @@
+{
+  "googleRefreshToken": "",
+  "googleClientId": "",
+  "googleClientSecret": "",
+  "askConfirmation": true,
+  "refreshInterval": 60,
+  "showNotice": true
+}
