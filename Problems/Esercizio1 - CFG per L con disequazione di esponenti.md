@@ -31,4 +31,7 @@ Entrambe le definizioni rappresentano due [[CFL - Context Free Language|CFL]], q
 	- $Y \Rightarrow aYb$
 	- $Y \Rightarrow \varepsilon$
 # Note
-E' importante stare attenti al fatto che la stringa vuota e' parte del linguaggio e bisogna stare attenti nella scrittura delle regole di produzione.
+- E' importante stare attenti al fatto che la stringa vuota e' parte del linguaggio e bisogna stare attenti nella scrittura delle regole di produzione.
+- Si vedono entrambi i [[CFL - Context Free Language#Casi paradigmatici|casi paradigmatici]]:
+	- L1: sono due linguaggi nidificati
+	- L2: sono due linguaggi concatenati
