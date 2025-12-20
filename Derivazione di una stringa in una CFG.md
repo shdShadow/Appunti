@@ -1,0 +1,1 @@
+La generazione base e' questa: [[Derivazione di una stringa]] applicando diversi [[Passo di derivazione nelle CFG]], quindi applicando regole di produzione solo su una variabile alla volta.

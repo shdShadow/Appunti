@@ -9,7 +9,7 @@ Nelle grammatiche, le regole di produzione sono appunto delle regole che ci perm
 
 # Conformazione 
 Come sono composte le regole, cambiano in base al tipo di grammatica:
-- CFG
+- [[Regole di produzione di una CFG]]
 - CG
 
 [[Componenti delle regole di produzione]]

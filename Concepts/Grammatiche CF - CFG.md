@@ -6,8 +6,7 @@ chapter: "5"
 ---
 # Cosa ci permette di distinguere una grammatica CFG dalle altre?
 La differenza chiave sta nelle [[regole-di-pruduzione|regole di produzione]], la cui testa deve essere sempre limitata ad una sola variabile.
-Per vedere pero' la differenza in modo piu' schematico si faccia riferimento alla [[Gerarchia di Chomsky]]
-
+Per vedere pero' la differenza in modo piu' schematico si faccia riferimento alla [[Gerarchia di Chomsky]] oppure specificatamente in [[Regole di produzione di una CFG]]
 # [[Come si genera una stringa nelle CFG]]
 
 ## Nota
