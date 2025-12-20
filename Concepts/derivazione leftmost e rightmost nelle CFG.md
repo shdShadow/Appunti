@@ -19,6 +19,6 @@ Gli alberi sintattici di per se' non cambiano, cambia pero' il modo in cui li vi
 
 # Backlinks
 - [[Alberi Sintattici]]
-- [[derivazione leftmost e rightmost]]
+- [[derivazione leftmost e rightmost nelle CFG]]
 - [[derivazione in zero o piu' passi]]
-- [[Come si genera una stringa]]
+- [[Come si genera una stringa nelle CFG]]

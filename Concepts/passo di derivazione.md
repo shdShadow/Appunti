@@ -5,7 +5,7 @@ tags:
 course: Linguaggi e Computabilita'
 chapter: "5"
 ---
-Data una [[Grammatiche CF - CFG|CFG]] G, un passo di derivazione rappresenta l'applicazione di una delle regole di produzione su una variabile, ottenendo quindi delle [[Forme sentenziali|forme sentenziali]]
+Data una [[Grammatica]] G, un passo di derivazione rappresenta l'applicazione di una delle regole di produzione su una variabile, ottenendo quindi delle [[Forme sentenziali|forme sentenziali]]
 ## Come funziona un passo di derivazione?
 Per ogni forma sentenziale, si lasciano intatti i [[Simboli Terminali]], mentre si sceglie una gruppo di simboli uguale ad una delle teste delle [[regole-di-pruduzione]] che vogliamo applicare, e la sostituisce applicando la [[regole-di-pruduzione | regola di produzione]] da noi scelta. Non e' piu' possibile compiere passi di derivazione una volta che la forma sentenziale e' composta da soli _simboli terminali_.
 ## Come si indica?
@@ -23,6 +23,6 @@ Proprio il nome **passo di derivazione** lascia subito intendere come vengono sv
 
 # Backlinks
 - [[Come si genera una stringa?]]
-- [[derivazione leftmost e rightmost]]
+- [[derivazione leftmost e rightmost nelle CFG]]
 - [[Forme sentenziali]]
 - [[Grammatiche CF - CFG]]

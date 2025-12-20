@@ -8,7 +8,7 @@ L'insieme dei simboli terminali in una [[Grammatica]] rappresenta [[Alfabeto |l'
 # Backlinks
 - [[Alberi Sintattici]]
 - [[CFL - Context Free Language]]
-- [[Come si genera una stringa]]
+- [[Come si genera una stringa nelle CFG]]
 - [[Cosa rappresenta una grammatica]]
 - [[Grammatica]]
 - [[Grammatiche CF - CFG]]

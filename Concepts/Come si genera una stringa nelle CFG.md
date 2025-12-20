@@ -8,6 +8,7 @@ chapter: "5"
 Data una [[Grammatiche CF - CFG|CFG]]  G = {V, T, P, S} e' possibile generare una stringa in 2 modi:
 - Derivazione
 - Inferenza Ricorsiva
+TODO: Estrarre tutta la parte di derivazione in una nota separata, visto che tutto sommato è uguale per tutte le grammatiche 
 ## Tramite Derivazione
 Si genera una stringa tramite l'applicazione (anche ripetuta) delle [[regole-di-pruduzione]] a partire dallo start symbol fino alla stringa voluta ==composta quindi di soli [[Simboli Terminali]]==, eseguendo quindi diversi[[passo di derivazione | passi di derivazione]]
 L'intero processo di generazione di una stringa a partire dallo start symbol, e' detto **derivazione**

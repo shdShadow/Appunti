@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Grammatiche CF - CFG.md",
+                "file": "Concepts/regole-di-pruduzione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grammatiche CF - CFG"
+              "title": "regole-di-pruduzione"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Concepts/Grammatiche CF - CFG.md",
+            "file": "Concepts/regole-di-pruduzione.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,7 +172,23 @@
   },
   "active": "08d350636c738aa8",
   "lastOpenFiles": [
+    "Concepts/Gerarchia di Chomsky.md",
+    "Concepts/Forme sentenziali.md",
+    "Concepts/derivazione leftmost e rightmost nelle CFG.md",
+    "Concepts/derivazione in zero o piu' passi.md",
+    "Concepts/Cosa rappresenta una grammatica.md",
+    "Concepts/Componenti delle regole di produzione.md",
+    "Concepts/Come si genera una stringa nelle CFG.md",
+    "Concepts/CFL - Context Free Language.md",
+    "Concepts/regole-di-pruduzione.md",
+    "Concepts/passo di derivazione.md",
+    "Concepts/Esempi di linguaggi contestuali.md",
+    "Concepts/Passo di derivazione nelle CFG.md",
+    "Concepts/Grammatiche CF - CFG.md",
     "Concepts/Grammatica.md",
+    "Concepts/Passo di derivazione nei linguaggi contestuali.md",
+    "Concepts/Simboli Terminali.md",
+    "Concepts/Alberi Sintattici.md",
     "Untitled.base",
     "Problems/Esercizio3 - Trovare CFG per linguaggio L, con relativo albero sintattico.md",
     "Attachments/Pasted image 20251219195742.png",

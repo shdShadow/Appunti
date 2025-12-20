@@ -7,6 +7,9 @@ chapter: "5"
 # Cosa ci permette di distinguere una grammatica CFG dalle altre?
 La differenza chiave sta nelle [[regole-di-pruduzione|regole di produzione]], la cui testa deve essere sempre limitata ad una sola variabile.
 Per vedere pero' la differenza in modo piu' schematico si faccia riferimento alla [[Gerarchia di Chomsky]]
+
+# [[Come si genera una stringa nelle CFG]]
+
 ## Nota
 Le grammatiche CF si riconoscono anche durante le derivazioni, quando hanno lo stesso numero di 2 oggetti, e tali oggetti vanno costruiti insieme in un singolo passo. Un esempio:
 - [[Esercizio 1- Fornire una CFG per il linguaggio L]]
@@ -21,7 +24,7 @@ Perche' io vado a riscrivere **una sola** (alla volta) delle [[Simboli Terminali
 - [[Grammatica]]
 - [[regole-di-pruduzione]]
 - [[CFL - Context Free Language]]
-- [[Come si genera una stringa?]]
+- [[Come si genera una stringa nelle CFG]]
 - [[Alberi Sintattici]]
 - [[passo di derivazione]]
 

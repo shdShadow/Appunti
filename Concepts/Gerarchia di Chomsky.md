@@ -1,4 +1,5 @@
 # Tipo 2: Context Free
+TODO: EStrai regole di produzione CFG
 - Le [[regole-di-pruduzione|regole di produzione]] hanno sempre:
 	- La **testa** composta da una variabile (e solo una variabile)
 	- La coda come un insieme di [[Simboli Terminali|simboli terminali]] e/o variabili

@@ -10,7 +10,7 @@ chapter: "5"
 [[regole-di-pruduzione | regole di produzione]]
 [[Come si genera una stringa?]]
 [[passo di derivazione]]
-[[derivazione leftmost e rightmost]]
+[[derivazione leftmost e rightmost nelle CFG]]
 [[derivazione in zero o piu' passi]]
 
 # Problema
@@ -32,7 +32,7 @@ La [[Grammatica]] completa e' la seguente: G = {V,T,P,S} dove:
 
 Vogliamo provare a dimostrare questo:
 $$ E \Rightarrow^* a * (a + b00) $$
-in vari modi: iniziamo con una [[derivazione leftmost e rightmost|derivazione leftmost]]
+in vari modi: iniziamo con una [[derivazione leftmost e rightmost nelle CFG|derivazione leftmost]]
 ## Leftmost
 $$ E \Rightarrow_3 E * E$$
 ora si nota la struttura uguale a quella richiesta. La prima E va quindi sostituita in a

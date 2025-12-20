@@ -7,11 +7,11 @@ chapter: "5"
 # Overview
 E' il linguaggio, quindi l'insieme delle stringhe, generato da una certa [[Grammatiche CF - CFG|CFG]].
 # Definizione Formale
-> [!definition] CFL
+ > [!definition] CFL
 > Sia una [[Grammatiche CF - CFG|CFG]] G = (V, T, P, S).
 > Il linguaggio generato da G e' :
 > $$ L(G) = \{w \in T^* | S \Rightarrow^* w\} $$
-> cioe' l'insieme delle stringhe formate di soli [[Simboli Terminali|simboli terminali]] che posso ottenere con una [[derivazione in zero o piu' passi]] a partire dallo _start symbol_ S
+> cioe' l'insieme delle stringhe formate di soli [[Simboli Terminali|simboli terminali]] che posso ottenere con una [[derivazione in zero o piu' passi]] a partire dallo _start symbol_ S della [[Grammatiche CF - CFG|CFG]] G
 
 # Casi paradigmatici
 Nei linguaggi [[CFL - Context Free Language|context free]] esistono solo 2 tipi di linguaggi possibili (poi combinabili in ogni modo):

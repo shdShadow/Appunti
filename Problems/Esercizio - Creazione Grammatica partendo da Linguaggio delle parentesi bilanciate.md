@@ -10,7 +10,7 @@ chapter: "5"
 [[regole-di-pruduzione | regole di produzione]]
 [[Come si genera una stringa?]]
 [[passo di derivazione]]
-[[derivazione leftmost e rightmost]]
+[[derivazione leftmost e rightmost nelle CFG]]
 [[derivazione in zero o piu' passi]]
 
 Si consideri il linguaggio delle stringhe con parentesi bilanciate $L_{bal}$ con il seguente alfabeto/insieme dei terminali:
