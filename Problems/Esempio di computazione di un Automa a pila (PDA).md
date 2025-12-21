@@ -1,4 +1,4 @@
-TODO: immagine esempio:
+![[Pasted image 20251222004034.png]]
 
 Legge il primo simbolo (a) ed entrera' in gioco la [[funzione di transizione degli stati per automi a pila]] che come visto nella nota linkata, accetta un simbolo in input, il simbolo in cima alla pila e lo stato attuale, e agira' di conseguenza.
 Cosa puo' fare?( Si vede anche qui: [[funzione di transizione degli stati per automi a pila]])

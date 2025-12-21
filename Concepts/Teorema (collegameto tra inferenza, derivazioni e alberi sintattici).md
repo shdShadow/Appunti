@@ -18,9 +18,10 @@ $$w = w_1w_2 ... w_k $$
 Dato che $w$ viene costruita nell'ultima riga a partire da $w_1w_2 ... w_k$ _costruite prima_. Allora io posso _tagliere la tabella_ e concentrarmi, ad esempio, sulle righe che costruiscono $w_1$, (poi $w_2, w_3, ...$).
 Questa tabella e' sicuramente piu' piccola di quella di $w$ e posso allora sfruttare l'ipotesi induttiva: _Esiste un albero sintattico che costruisce $w_1$ ($w_2, w_3,...$)
 
-Immagine
+![[Pasted image 20251222005121.png]]
 
 A questo punto posso unire tutti i sottoalberi in un nuovo [[Alberi Sintattici|albero sintattico]] che avra' come prodotto la mia stringa $w_1 w_2 ... w_k$
+![[Pasted image 20251222005209.png]]
 ### b) Dagli alberi alla derivazione sinistra
 Per ottenere la derivazione sinistra ci basta visitare l'albero in profondita' verso sinistra e poi muovendosi man mano verso destra.
 ### c) Dagli alberi alla derivazione destra

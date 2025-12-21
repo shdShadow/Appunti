@@ -6,4 +6,4 @@ Simili ai vari tipi di [[Grafo]]:
 	- $X \in \Gamma$ rappresenta il simbolo che dovrebbe essere in cima allo stack per poter usare quel caso della delta e rappresenta il terzo elemento della [[funzione di transizione degli stati per automi a pila]]
 	- _$\alpha$_ indica cosa andremo a scrivere sullo stack se viene applicato quel caso della delta.
 	- Riassumibile con immagine sottostante
-	- TODO aggiungere immagine.
+![[Pasted image 20251222004847.png]]

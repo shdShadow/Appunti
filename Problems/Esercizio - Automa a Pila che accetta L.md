@@ -34,6 +34,6 @@ Ho "finito" w, faccio la [[Epsilon-mossa]] per passare in $q_1$ per vedere i "ma
 - $\delta(q_1, 1, 1) = \{q_1, \varepsilon\}$
 - $\delta(q_0, \varepsilon, Z_0) = \{q_2, Z_0\}$
 Scrivere tutti i casi della delta in questo modo e' piuttosto scomodo, pertanto la possiamo rappresentare in [[rappresentazione funzione di transizione dei PDA in forma grafica.|in forma grafica]]
-TODO: aggiungere immagine.
+![[Pasted image 20251222004306.png]]
 
 

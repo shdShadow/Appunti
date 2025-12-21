@@ -16,7 +16,7 @@ Vediamo le [[Regole di produzione di linguaggi Context Free|regole di produzione
 - $C \to aCd | aDd$
 - $D \to bDc | bc$
 Proviamo ora a derivare la stringa $w = aabbccdd$. E' una stringa che ha n = m = 2, pertanto appartiene a tutti e due i linguaggi, sta nell'intersezione
-Immagine intersezione
+![[Pasted image 20251222004709.png]]
 
 E per le stringhe che stanno in una intersezione di 2 [[CFL - Context Free Language|CFL]] si hanno due [[derivazione leftmost e rightmost nelle CFG|derivazioni sinistre]] (o destre).
 $$S \Rightarrow_{lm} AB \Rightarrow_{lm} aAbB \Rightarrow_{lm} aabbB \Rightarrow_{lm} aabbcBd \Rightarrow_{lm} aabbccdd$$un altra possibile derivazione e' questa:

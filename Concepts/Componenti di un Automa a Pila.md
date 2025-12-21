@@ -1,5 +1,5 @@
 Un [[Automi a Pila (PDA)]] e' formato da:
-TODO: immagine automa a pila
+![[Pasted image 20251222003359.png]]
 
 - Il "quadrato" e' il **controllo finito degli stati**, dove in ogni instante si trova in un certo stato _q_
 	- Alcuni stati sono finali quindi quando la stringa viene totalmente elaborata scopriamo se e' accettata oppure rifiutata

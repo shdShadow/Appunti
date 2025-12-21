@@ -5,12 +5,11 @@ La grammatica aveva queste regole di produzione
 
 Primo modo:
 $$E \Rightarrow E + \underline{E} \Rightarrow E + E * E$$
-Immagine albero sintattico
+![[Pasted image 20251222004521.png]]
 
 Secondo modo:
 $$ E \Rightarrow \underline{E} + E \Rightarrow E + E * E$$
-Immagine albero sintattico
-
+![[Pasted image 20251222004607.png]]
 ## Quale e' il problema?
 Il problema e' che sono sintatticamente uguali. Ma:
 1. Abbiamo E * E e poi sommiamo E, cosa che noi siamo abituati a fare nelle espressioni 

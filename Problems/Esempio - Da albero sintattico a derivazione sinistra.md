@@ -5,7 +5,7 @@
 - [[Derivazione di una stringa]]
 - [[Teorema (collegameto tra inferenza, derivazioni e alberi sintattici)]]
 # Problema
-TODO: Immagine albero
+![[Pasted image 20251222003802.png]]
 La stringa che vuole generare questo albero e': $w = a * (a + b00)$.
 Partiamo quindi da E e generiamo varie [[Forme sentenziali]] scendendo l'albero verso sinistra:
 $$ E \Rightarrow_{lm} E * E$$
