@@ -14,7 +14,7 @@ chapter: "5"
 > 	1. C'e' un caso particolare ammesso: $A \Rightarrow \varepsilon$
 > Soprattutto grazie alle Regole 1 e 3, si capisce come l'albero ci mostra una sorta di fotografia della [[Come si genera una stringa nelle CFG|generazione della stringa]] passo per passo con le diverse regole di produzione applicate.
 ## Cosa rappresentano gli alberi sintattici?
-Rappresentano una derivazione di una certa stringa per una certa grammatica partendo dallo start symbol. La stringa derivata la vedo andando a leggere le foglie da sinistra verso destra.
+Rappresentano una derivazione di una certa stringa o di una [[Forme sentenziali|forma sentenziale]] per una certa grammatica partendo dallo start symbol. La stringa derivata la vedo andando a leggere le foglie da sinistra verso destra.
 
 # Backlinks
 - [[derivazione leftmost e rightmost nelle CFG#Ma per gli Alberi Sintattici ?]]

@@ -4,7 +4,7 @@ Durante la derivazione di una stringa di un [[CFL - Context Free Language|CFL]] 
 - E continuo cosi'...
 - Fino a quando non ottengo la stringa che voglio oppure ho solo [[Simboli Terminali]] nella mia forma sentenziale
 ## Nota:
-Dico apposta **"1 variabile"**, perche' per esempio, nei [[linguaggi di tipo 1: contestuali]], devo selezionare un gruppo di simboli (possibilmente solo variabili, solo terminali oppure un po' variabili e un po' terminali) che soddisfano la testa delle [[regole-di-pruduzione|regole di produzione]] anche nel loro contesto.
+Dico apposta **"1 variabile"**, perche' per esempio, nei [[Linguaggi Contestuali]], devo selezionare un gruppo di simboli (possibilmente solo variabili, solo terminali oppure un po' variabili e un po' terminali) che soddisfano la testa delle [[regole-di-pruduzione|regole di produzione]] anche nel loro contesto.
 ## Definizione formale
 In modo piu' formale:
 > [!definition]

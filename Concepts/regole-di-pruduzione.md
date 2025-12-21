@@ -5,12 +5,14 @@ course: Linguaggi e Computabilita'
 chapter: "5"
 ---
 # Cosa sono?
-Nelle grammatiche, le regole di produzione sono appunto delle regole che ci permettono di trasformare una certa categoria sintattica in variabili altre [[Forme sentenziali]]
+Nelle grammatiche, le regole di produzione sono appunto delle regole che ci permettono di trasformare una certa categoria sintattica (insieme di simboli $(V \cup T)^*)$ in variabili altre [[Forme sentenziali]]
 
 # Conformazione 
 Come sono composte le regole, cambiano in base al tipo di grammatica:
-- [[Regole di produzione di una CFG]]
-- CG
+- [[Regole di produzione di linguaggi Context Free]]
+- [[regole di produzione di linguaggi contestuali]]
+- [[regole di produzione di linguaggi ricorsivamente enumerabili]]
+- [[regole di produzione di linguaggi regolari]]
 
 [[Componenti delle regole di produzione]]
 # Backlinks
