@@ -159,6 +159,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "improved-random-note:Open improved random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08d350636c738aa8",
+  "active": "85f6fc312a8f5398",
   "lastOpenFiles": [
     "Concepts/Gerarchia di Chomsky.md",
     "Concepts/Forme sentenziali.md",
