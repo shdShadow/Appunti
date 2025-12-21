@@ -4,63 +4,120 @@
     "type": "split",
     "children": [
       {
-        "id": "074bc8feb561b356",
-        "type": "tabs",
+        "id": "d5231c43426bf744",
+        "type": "split",
         "children": [
           {
-            "id": "36d6c7cae86ad92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/regole di produzione di linguaggi ricorsivamente enumerabili.md",
-                "mode": "source",
-                "source": false
+            "id": "074bc8feb561b356",
+            "type": "tabs",
+            "dimension": 74.02597402597402,
+            "children": [
+              {
+                "id": "36d6c7cae86ad92a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/regole di produzione di linguaggi ricorsivamente enumerabili.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "regole di produzione di linguaggi ricorsivamente enumerabili"
+                }
               },
-              "icon": "lucide-file",
-              "title": "regole di produzione di linguaggi ricorsivamente enumerabili"
-            }
+              {
+                "id": "20055a1f2b1932b2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/Alberi Sintattici.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Alberi Sintattici"
+                }
+              },
+              {
+                "id": "67842903b4ae69f2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "f63735c074cf7c22",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/Teorema (collegameto tra inferenza, derivazioni e alberi sintattici).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Teorema (collegameto tra inferenza, derivazioni e alberi sintattici)"
+                }
+              },
+              {
+                "id": "69a7df82638743d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Linguaggi e Computabilita - Esercizi.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Linguaggi e Computabilita - Esercizi"
+                }
+              },
+              {
+                "id": "236495c9c7ebd46d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/Grammatiche CF - CFG.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Grammatiche CF - CFG"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "20055a1f2b1932b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Alberi Sintattici.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alberi Sintattici"
-            }
-          },
-          {
-            "id": "c50ebe892137dacf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "236495c9c7ebd46d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Grammatiche CF - CFG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Grammatiche CF - CFG"
-            }
+            "id": "08d4049a7ad047b4",
+            "type": "tabs",
+            "dimension": 25.97402597402597,
+            "children": [
+              {
+                "id": "09a582feffca8398",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/Grammatiche CF - CFG.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Grammatiche CF - CFG"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -249,36 +306,38 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "c50ebe892137dacf",
+  "active": "67842903b4ae69f2",
   "lastOpenFiles": [
+    "Concepts/Come si trasformano regole lineari in un verso nell'altro.md",
+    "Concepts/Grammatiche Regolari.md",
+    "Concepts/regole di produzione di linguaggi regolari.md",
+    "Concepts/Grammatiche Ambigue.md",
+    "Concepts/Teorema (collegameto tra inferenza, derivazioni e alberi sintattici).md",
+    "Linguaggi e Computabilita - Esercizi.md",
+    "Concepts/Se io uso solo regole lineari a sx o dx posso ottenere tutti i linguaggi regolari.md",
+    "Trasformazione da lineare sx a dx con scambio di variabile.md",
+    "Trasformazione da lineare sx a dx con variabili d'appoggio.md",
+    "Se io uso solo regole lineari a sx",
+    "Concepts/Grammatiche CF - CFG.md",
+    "Concepts/Alberi Sintattici.md",
+    "Concepts/regole-di-pruduzione.md",
+    "Concepts/passo di derivazione.md",
+    "Concepts/regole di produzione di linguaggi contestuali.md",
+    "Concepts/Grammatica.md",
+    "Concepts/Linguaggi Ambigui.md",
+    "Concepts/derivazione leftmost e rightmost nelle CFG.md",
+    "Concepts/Ambiguita'.md",
+    "Problems/Esempio - Da albero sintattico a derivazione sinistra.md",
+    "Problems/Esercizio 1- Fornire una CFG per il linguaggio L.md",
+    "Concepts/derivazione in zero o piu' passi.md",
+    "Untitled.base",
+    "Test.md",
+    "Concepts/Per inferenza ricorsiva CFG.md",
+    "Concepts/Linguaggi Contestuali.md",
+    "Concepts/Grammatica contestuale.md",
     "New Text Document.txt",
     "Concepts/Simboli Terminali.md",
-    "Concepts/regole-di-pruduzione.md",
-    "Concepts/regole di produzione di linguaggi ricorsivamente enumerabili.md",
-    "Concepts/Regole di produzione di linguaggi Context Free.md",
-    "Concepts/regole di produzione di linguaggi contestuali.md",
-    "Concepts/Passo di derivazione nelle CFG.md",
-    "Concepts/Passo di derivazione nei linguaggi contestuali.md",
-    "Concepts/passo di derivazione.md",
-    "Concepts/Grammatiche CF - CFG.md",
-    "Concepts/Come si genera una stringa nelle CFG.md",
-    "Concepts/Grammatica.md",
-    "Concepts/Cosa rappresenta una grammatica.md",
-    "Concepts/Gerarchia di Chomsky.md",
-    "Concepts/Forme sentenziali.md",
-    "Concepts/Esempi di linguaggi contestuali.md",
-    "Concepts/derivazione leftmost e rightmost nelle CFG.md",
-    "Concepts/derivazione in zero o piu' passi.md",
-    "Concepts/Derivazione di una stringa in una CFG.md",
-    "Concepts/Derivazione di una stringa.md",
-    "Concepts/Componenti delle regole di produzione.md",
-    "Per inferenza ricorsiva CFG.md",
-    "Concepts/CFL - Context Free Language.md",
-    "Concepts/Alberi Sintattici.md",
-    "regole di produzione di linguaggi regolari.md",
-    "Grammatica contestuale.md",
     "Untitled",
-    "Untitled.base",
     "Problems",
     "LinguaggiDiProgrammazione/record2.png",
     "LinguaggiDiProgrammazione/record.png",
@@ -293,10 +352,8 @@
     "Attachments/Pasted image 20251219191459.png",
     "Attachments",
     "Appunti/Untitled.base",
-    "Appunti/Problems",
     "Appunti/LinguaggiDiProgrammazione/record2.png",
     "Appunti/LinguaggiDiProgrammazione/record.png",
-    "Appunti/LinguaggiDiProgrammazione/nomi_scopi_binding.pdf",
     "Untitled.canvas"
   ]
 }
