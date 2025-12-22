@@ -6,8 +6,11 @@ chapter: "6"
 ---
 # Concetti usati
 [[Automi a Pila (PDA)]]
-[[Esempio di computazione di un Automa a pila (PDA)]]
+[[Esempio di computazione informale di un Automa a pila (PDA)]]
 [[Grammatiche CF - CFG]]
+[[Come si muove un automa a Pila]]
+[[Computazione in zero o piu' passi di un PDA]]
+[[Passo di computazione di un PDA]]
 # Problema
 Devo creare un [[Automi a Pila (PDA)]] che accetta:
 $$ L_{ww^R} = \{ww^R | w \in \{0,1\}^*\} $$
@@ -41,5 +44,11 @@ Ho "finito" w, faccio la [[Epsilon-mossa]] per passare in $q_1$ per vedere i "ma
 - $\delta(q_0, \varepsilon, Z_0) = \{q_2, Z_0\}$
 Scrivere tutti i casi della delta in questo modo e' piuttosto scomodo, pertanto la possiamo rappresentare in [[rappresentazione funzione di transizione dei PDA in forma grafica.|in forma grafica]]
 ![[Pasted image 20251222004306.png]]
-
-
+# Osservazione
+Questo linguaggio non puo' essere accettato da nessun [[Automi a Pila (DPDA)]]
+## Computazione di una stringa
+Proviamo con la stringa $w = 1111$. Essendo di base un [[Epsilon-NFA]], per ogni stato ci possono essere anche piu' mosse possibili quindi:
+- o ci avvaliamo dell'[[oracolo]]
+- oppure ogni possibilita' finisce per "sdoppiare" l'automa
+Andremo a rappresentarla con il secondo caso
+TODO: immagine computazione 1111

@@ -21,7 +21,7 @@ Quindi:
 > [!caution]
 > La funzione di transizione consuma sia il simbolo in input che il simbolo in cima allo stack.
 
-2. Il codominio della [[funzione di transizione degli stati per automi a pila]], non sarebbe finito, perche' l'insieme delle stringhe di $\Gamma^*$, pero' nella definizione degli [[Automi a Pila (PDA)]], io devo dire che **e' finito**. Devo quindi scegliere un insieme finito di coppie stato-stringa
+2. Il codominio della [[funzione di transizione degli stati per automi a pila non deterministici]], non sarebbe finito, perche' l'insieme delle stringhe di $\Gamma^*$, pero' nella definizione degli [[Automi a Pila (PDA)]], io devo dire che **e' finito**. Devo quindi scegliere un insieme finito di coppie stato-stringa
 3. L'[[Automi a Pila (PDA)]] e' NON DETERMINISTICO, quindi genero un insieme di coppie stato-stringa come negli [[Epsilon-NFA]]. Basta quindi che 1 coppia accetti per far si che la stringa in input venga accettata.
 
 # L'utilita' di Z0
