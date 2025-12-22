@@ -8,7 +8,7 @@ chapter: "6"
 [[Automi a Pila (PDA)]]
 [[Esempio di computazione informale di un Automa a pila (PDA)]]
 [[Grammatiche CF - CFG]]
-[[Come si muove un automa a Pila]]
+[[Come si muove un PDA]]
 [[Computazione in zero o piu' passi di un PDA]]
 [[Passo di computazione di un PDA]]
 # Problema

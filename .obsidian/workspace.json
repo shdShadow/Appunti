@@ -10,7 +10,7 @@
           {
             "id": "050210614af6f0ee",
             "type": "tabs",
-            "dimension": 60.83333333333333,
+            "dimension": 50.74074074074074,
             "children": [
               {
                 "id": "91ec8e84ccccc814",
@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Automi a Pila (DPDA).md",
+                    "file": "Concepts/Accettazione per pila vuota.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Automi a Pila (DPDA)"
+                  "title": "Accettazione per pila vuota"
                 }
               }
             ]
@@ -31,7 +31,7 @@
           {
             "id": "2a3b3bc16d172ae0",
             "type": "tabs",
-            "dimension": 39.166666666666664,
+            "dimension": 49.25925925925926,
             "children": [
               {
                 "id": "baf3aa26ebd2289f",
@@ -39,12 +39,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Automi a Pila (DPDA).md",
+                    "file": "Concepts/Equivalenza tra CFG e PDA per pila vuota.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Automi a Pila (DPDA)"
+                  "title": "Equivalenza tra CFG e PDA per pila vuota"
                 }
               },
               {
@@ -61,8 +61,7 @@
                   "title": "Definizione formale di automi a pila"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -257,33 +256,33 @@
   },
   "active": "91ec8e84ccccc814",
   "lastOpenFiles": [
-    "Automi a Pila.md",
-    "Automi a Pila (DPDA).md",
-    "Esercizio - DPDA che accetta un certo L.md",
+    "Concepts/Accettazione per stato finale.md",
+    "Concepts/Alberi Sintattici.md",
+    "Concepts/Ambiguita'.md",
+    "Concepts/Automi a Pila.md",
+    "Concepts/Automi a Pila (DPDA).md",
     "Concepts/Automi a Pila (PDA).md",
-    "Come accetta un automa a Pila.md",
-    "Problems/Esercizio - Automa a Pila che accetta L.md",
-    "Definizione formale di automi a pila.md",
-    "funzione di transizione degli stati per automi a pila deterministici.md",
-    "Concepts/funzione di transizione degli stati per automi a pila non deterministici.md",
-    "Equivalenza tra CFG e PDA per pila vuota.md",
-    "Problems/Esempio - Trasformazione da CFG a PDA.md",
-    "trasformazioni tra CFG, PDA per stack vuoto e PDA per Stato Finale.md",
-    "Da stato finale a pila vuota.md",
-    "Da pila vuota a stati finali.md",
-    "Accettazione per stato finale.md",
-    "Accettazione per pila vuota.md",
-    "Concepts/Gerarchia di Chomsky.md",
-    "Computazione in zero o piu' passi di un PDA.md",
-    "Come si muove un automa a Pila.md",
-    "Excalidraw/Drawing 2025-12-22 12.14.30.excalidraw.md",
-    "Excalidraw",
-    "Problems/Esempio di computazione informale di un Automa a pila (PDA).md",
-    "Problems/Esempio - Computazione mediante definizioni formali di un PDA.md",
+    "Concepts/CFL - Context Free Language.md",
+    "Concepts/Come accetta un automa a Pila non deterministico.md",
+    "Concepts/Come accettano i DPDA.md",
+    "Concepts/come fa un automa a pila a superare il limite degli stati finiti degli epsilon NFA.md",
+    "Concepts/Come si genera una stringa nelle CFG.md",
+    "Concepts/Come si muove un PDA.md",
+    "Concepts/Come si trasformano regole lineari in un verso nell'altro.md",
+    "Concepts/Componenti delle regole di produzione.md",
+    "Concepts/Componenti di un Automa a Pila.md",
+    "Concepts/Computazione in zero o piu' passi di un PDA.md",
+    "Concepts/Configurazione di un PDA.md",
+    "Concepts/Cosa accettano i PDA.md",
+    "Concepts/Cosa rappresenta una grammatica.md",
+    "Concepts/Da pila vuota a stati finali.md",
+    "Concepts/Da stato finale a pila vuota.md",
+    "Concepts/Definizione formale di automi a pila.md",
     "Concepts/Derivazione di una stringa.md",
-    "Concepts/passo di derivazione.md",
-    "Passo di computazione di un PDA.md",
-    "Concepts/Grammatiche CF - CFG.md",
+    "Concepts/Derivazione di una stringa in una CFG.md",
+    "Concepts/derivazione in zero o piu' passi.md",
+    "Concepts/derivazione leftmost e rightmost nelle CFG.md",
+    "Excalidraw",
     "Attachments/Pasted image 20251222005209.png",
     "Attachments/Pasted image 20251222005121.png",
     "Attachments/Pasted image 20251222004847.png",
