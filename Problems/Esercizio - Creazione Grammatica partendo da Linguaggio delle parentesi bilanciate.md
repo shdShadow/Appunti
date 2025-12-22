@@ -8,7 +8,7 @@ chapter: "5"
 # Concetti utilizzati
 [[Grammatica | Grammatiche]]
 [[regole-di-pruduzione | regole di produzione]]
-[[Come si genera una stringa?]]
+[[Come si genera una stringa nelle CFG]]
 [[passo di derivazione]]
 [[derivazione leftmost e rightmost nelle CFG]]
 [[derivazione in zero o piu' passi]]

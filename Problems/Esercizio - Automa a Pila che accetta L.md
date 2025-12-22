@@ -1,3 +1,9 @@
+---
+tags:
+  - esercizio
+course: Linguaggi e Computabilita'
+chapter: "6"
+---
 # Concetti usati
 [[Automi a Pila (PDA)]]
 [[Esempio di computazione di un Automa a pila (PDA)]]

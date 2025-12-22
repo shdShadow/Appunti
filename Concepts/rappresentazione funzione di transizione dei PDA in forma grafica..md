@@ -1,3 +1,9 @@
+---
+tags:
+  - evergreen
+course: Linguaggi e Computabilita'
+chapter: "6"
+---
 Simili ai vari tipi di [[Grafo]]:
 - Stato iniziale si indica con un arco entrante in un nodo senza origine con l'etichetta start
 - Gli stati finali si indicano sempre con il doppio cerchio

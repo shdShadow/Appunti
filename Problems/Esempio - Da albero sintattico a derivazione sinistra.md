@@ -1,3 +1,9 @@
+---
+tags:
+  - esercizio
+course: Linguaggi e Computabilita'
+chapter: "5"
+---
 # Concetti utilizzati
 - [[Grammatiche CF - CFG]]
 - [[Alberi Sintattici]]

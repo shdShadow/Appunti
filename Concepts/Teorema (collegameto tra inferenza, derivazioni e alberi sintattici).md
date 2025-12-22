@@ -1,3 +1,9 @@
+---
+tags:
+  - evergreen
+course: Linguaggi e Computabilita'
+chapter: "5"
+---
 # Teorema
 > [!theorem] Collegamento tra inferenza, derivazioni e alberi sintattici
 > Data una [[Grammatiche CF - CFG|CFG]], i seguenti enunciati sono equivalenti:

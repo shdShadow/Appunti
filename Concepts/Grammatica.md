@@ -2,7 +2,7 @@
 tags:
   - "#evergreen"
 course: Linguaggi e Computabilita'
-chapter: "5"
+chapter:
 ---
 
 # Definizione

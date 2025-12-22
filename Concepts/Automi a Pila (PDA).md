@@ -1,3 +1,9 @@
+---
+tags:
+  - evergreen
+course: Linguaggi e Computabilita'
+chapter: "6"
+---
 # In soldoni
 Un **automa a pila** e' un [[Epsilon-NFA]] + una **pila** (stack)
 

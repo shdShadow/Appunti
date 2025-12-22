@@ -1,3 +1,10 @@
+---
+tags:
+  - evergreen
+  - insight
+course: Linguaggi e Computabilita'
+chapter: Any
+---
 Vengono qui classificati i vari linguaggi i quali vengono tutti accettati da un certo tipo di [[Grammatica]] $G = (V,T,P,S)$. 
 Il tipo di essa, e' proprio determinato dalle [[regole-di-pruduzione]]
 # Tipo 0: Generali o Ricorsivamente Enumerabili

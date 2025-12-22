@@ -1,3 +1,9 @@
+---
+tags:
+  - evergreen
+course: Linguaggi e Computabilita'
+chapter: "5"
+---
 ## Esempio 1:
 $L = \{a^nb^nc^n | n \geq 1\}$
 Si nota subito la differenza:

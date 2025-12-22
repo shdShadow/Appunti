@@ -1,3 +1,10 @@
+---
+tags:
+  - evergreen
+  - insight
+course: Linguaggi e Computabilita'
+chapter: "5"
+---
 Un **linguaggio contestuale** e' un linguaggio generato da una [[Grammatica contestuale]]
 
 # Esempi di linguaggio

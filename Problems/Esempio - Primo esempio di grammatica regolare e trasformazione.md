@@ -1,3 +1,9 @@
+---
+tags:
+  - esercizio
+course: Linguaggi e Computabilita'
+chapter: Any
+---
 ## Esempio:
 Consideriamo sempre la grammatica delle espressioni:
 - $I \to a | b | Ia | Ib | I0 | I1$ (sono tutte lineari a sinistra) 

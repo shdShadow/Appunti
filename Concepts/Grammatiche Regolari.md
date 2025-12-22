@@ -1,3 +1,10 @@
+---
+tags:
+  - esercizio
+  - insight
+course: Linguaggi e Computabilita'
+chapter: Appendix
+---
 Generano [[linguaggi regolari]].
 La definizione e' sempre la stessa, uguale per tutte le [[Grammatica|grammatiche]]
 # Cosa ci permette di distinguere una grammatica regolare dalle altre?

@@ -1,3 +1,9 @@
+---
+tags:
+  - esercizio
+course: Linguaggi e Computabilita'
+chapter: Appendix
+---
 # Concetti Utilizzati
 [[Grammatica]]
 [[Grammatiche Regolari]]

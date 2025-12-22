@@ -1,3 +1,10 @@
+---
+tags:
+  - esercizio
+  - evergreen
+course: Linguaggi e Computabilita'
+chapter: Appendix
+---
 Le [[regole-di-pruduzione]] sono:
 - $A \to aB, A \to a \ per \ A,B \in V, a \in T$ **lineare a destra**
 - $A \to Ba, A \to A \ per \ A,B \in V, a \in T$ **lineare a sinistra**

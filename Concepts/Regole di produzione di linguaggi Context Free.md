@@ -1,3 +1,10 @@
+---
+tags:
+  - evergreen
+  - insight
+chapter: "5"
+course: Linguaggi e Computabilita'
+---
 Le [[regole-di-pruduzione]] di una CFG hanno queste caratterestiche:
 Le [[regole-di-pruduzione|regole di produzione]] hanno sempre:
 	- La **testa** composta da una variabile (e solo una variabile)

@@ -1,3 +1,9 @@
+---
+tags:
+  - evergreen
+course: Linguaggi e Computabilita'
+chapter: "5"
+---
 Durante la derivazione di una stringa di un [[CFL - Context Free Language|CFL]] tramite [[Grammatiche CF - CFG|CFG]] cio' che andro' a fare e':
 - Selezionare una qualsiasi variabile della mia forma sentenziale corrente
 - La sostituisco con una regole di produzione appropriata
