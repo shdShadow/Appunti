@@ -12,13 +12,13 @@ Ma [[come fa un automa a pila a superare il limite degli stati finiti degli epsi
 I PDA hanno sottointeso il fatto che sono **non deterministici**. 
 Accettano **tutti e soli i [[CFL - Context Free Language]]** come si vede anche nella [[Gerarchia di Chomsky]].
 ## Info utili
-- [[Configurazione di un PDA]]
-- [[Come si muove un PDA]]
+- [[Configurazione di un automa a Pila]]
+- [[Come si muove un automa a Pila]]
 - [[Esempio di computazione informale di un Automa a pila (PDA)]]
-- [[Come accetta un automa a Pila non deterministico#I due metodi accettano gli stessi linguaggi?]]
+- [[Accettazione nei PDA#I due metodi accettano gli stessi linguaggi?]]
 - [[Equivalenza tra CFG e PDA per pila vuota]]
-- [[Esempio - Trasformazione da CFG a PD]]
-# [[Come accetta un automa a Pila non deterministico]]
+- [[Esempio - Trasformazione da CFG a PDA]]
+# [[Accettazione nei PDA]]
 # [[Cosa accettano i PDA]]
 # [[Definizione formale di automi a pila]]
 # Esempi/Esercizi utili:

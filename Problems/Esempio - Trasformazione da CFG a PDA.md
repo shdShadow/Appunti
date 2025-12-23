@@ -13,5 +13,5 @@ Accetta se esiste una computazione che consuma totalmente la stringa e ha svuota
 
 ## Computazione di aabb
 Si consideri $w = aabb$ che viene generata cosi': $S \Rightarrow aSb \Rightarrow aabb$
-Computiamo mediante [[Passo di computazione di un PDA]] e le [[Configurazione di un PDA]]:
+Computiamo mediante [[Passo di computazione di un automa a Pila]] e le [[Configurazione di un automa a Pila]]:
 $$ (q, aabb, S) \vdash (q, aabb, aSb) \vdash (q, abb, Sb) \vdash (q, abb, abb) \vdash (q, bb, bb) \vdash (q, b, b) \vdash (q, \varepsilon, \varepsilon)$$

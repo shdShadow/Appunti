@@ -4,67 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "0e7a5d9888377061",
-        "type": "split",
+        "id": "050210614af6f0ee",
+        "type": "tabs",
         "children": [
           {
-            "id": "050210614af6f0ee",
-            "type": "tabs",
-            "dimension": 50.74074074074074,
-            "children": [
-              {
-                "id": "91ec8e84ccccc814",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Concepts/Accettazione per pila vuota.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Accettazione per pila vuota"
-                }
-              }
-            ]
+            "id": "91ec8e84ccccc814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Automi a Pila.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automi a Pila"
+            }
           },
           {
-            "id": "2a3b3bc16d172ae0",
-            "type": "tabs",
-            "dimension": 49.25925925925926,
-            "children": [
-              {
-                "id": "baf3aa26ebd2289f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Concepts/Equivalenza tra CFG e PDA per pila vuota.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Equivalenza tra CFG e PDA per pila vuota"
-                }
+            "id": "32d0eb9d14cac6dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Definizione formale di automi a pila.md",
+                "mode": "source",
+                "source": false
               },
-              {
-                "id": "854210713e419ca2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Definizione formale di automi a pila.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Definizione formale di automi a pila"
-                }
-              }
-            ]
+              "icon": "lucide-file",
+              "title": "Definizione formale di automi a pila"
+            }
+          },
+          {
+            "id": "102770d7df913ecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Automi a Pila (DPDA).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automi a Pila (DPDA)"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "f932e08553bc3c7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fc8aa695f6d60a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Cosa accettano i PDA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cosa accettano i PDA"
+            }
+          },
+          {
+            "id": "e86e216c9582dc74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/trasformazioni tra CFG, PDA per stack vuoto e PDA per Stato Finale.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trasformazioni tra CFG, PDA per stack vuoto e PDA per Stato Finale"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nomi_scopi_binding.md",
+                "file": "Concepts/Automi a Pila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nomi_scopi_binding"
+              "title": "Backlinks for Automi a Pila"
             }
           },
           {
@@ -230,13 +249,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,37 +268,38 @@
       "obsidian-git:Open Git source control": false,
       "smart-random-note:Open Random Note from Search": false,
       "improved-random-note:Open improved random note": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "brain:brAIn": false
     }
   },
-  "active": "91ec8e84ccccc814",
+  "active": "58fd347836b74fc9",
   "lastOpenFiles": [
-    "Concepts/Accettazione per stato finale.md",
-    "Concepts/Alberi Sintattici.md",
-    "Concepts/Ambiguita'.md",
+    "Concepts/Accettazione nei PDA.md",
     "Concepts/Automi a Pila.md",
+    "Concepts/Accettazione nei DPDA.md",
     "Concepts/Automi a Pila (DPDA).md",
-    "Concepts/Automi a Pila (PDA).md",
-    "Concepts/CFL - Context Free Language.md",
-    "Concepts/Come accetta un automa a Pila non deterministico.md",
-    "Concepts/Come accettano i DPDA.md",
-    "Concepts/come fa un automa a pila a superare il limite degli stati finiti degli epsilon NFA.md",
-    "Concepts/Come si genera una stringa nelle CFG.md",
-    "Concepts/Come si muove un PDA.md",
-    "Concepts/Come si trasformano regole lineari in un verso nell'altro.md",
-    "Concepts/Componenti delle regole di produzione.md",
-    "Concepts/Componenti di un Automa a Pila.md",
-    "Concepts/Computazione in zero o piu' passi di un PDA.md",
-    "Concepts/Configurazione di un PDA.md",
+    "Concepts/Cosa accettano i DPDA.md",
     "Concepts/Cosa accettano i PDA.md",
-    "Concepts/Cosa rappresenta una grammatica.md",
-    "Concepts/Da pila vuota a stati finali.md",
-    "Concepts/Da stato finale a pila vuota.md",
+    "Concepts/Automi a Pila (PDA).md",
+    "Concepts/Perche' e' richiesto per i DPDA per pila vuota che il linguaggio sia prefix free.md",
     "Concepts/Definizione formale di automi a pila.md",
-    "Concepts/Derivazione di una stringa.md",
-    "Concepts/Derivazione di una stringa in una CFG.md",
-    "Concepts/derivazione in zero o piu' passi.md",
-    "Concepts/derivazione leftmost e rightmost nelle CFG.md",
+    "Problems/Esempio - Trasformazione da CFG a PDA.md",
+    "Concepts/Equivalenza tra CFG e PDA per pila vuota.md",
+    "Problems/Esempio di computazione informale di un Automa a pila (PDA).md",
+    "Concepts/Come si muove un automa a Pila.md",
+    "Concepts/Passo di computazione di un automa a Pila.md",
+    "Concepts/Computazione in zero o piu' passi di un automa a Pila.md",
+    "Concepts/push nei pda.md",
+    "Concepts/Configurazione di un automa a Pila.md",
+    "Concepts/come fa un automa a pila a superare il limite degli stati finiti degli epsilon NFA.md",
+    "Concepts/Componenti di un Automa a Pila.md",
+    "Concepts/funzione di transizione degli stati per automi a pila non deterministici.md",
+    "Concepts/L'utilita' di Z0.md",
+    "Concepts/funzione di transizione degli stati per automi a pila.md",
+    "Problems/Esercizio - Automa a Pila che accetta L.md",
+    "Concepts/trasformazioni tra CFG, PDA per stack vuoto e PDA per Stato Finale.md",
+    "Concepts/Come accettano i DPDA.md",
+    "Concepts/funzione di transizione degli stati per automi a pila deterministici.md",
     "Excalidraw",
     "Attachments/Pasted image 20251222005209.png",
     "Attachments/Pasted image 20251222005121.png",

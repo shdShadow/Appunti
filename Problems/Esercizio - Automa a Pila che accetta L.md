@@ -8,9 +8,9 @@ chapter: "6"
 [[Automi a Pila (PDA)]]
 [[Esempio di computazione informale di un Automa a pila (PDA)]]
 [[Grammatiche CF - CFG]]
-[[Come si muove un PDA]]
-[[Computazione in zero o piu' passi di un PDA]]
-[[Passo di computazione di un PDA]]
+[[Come si muove un automa a Pila]]
+[[Computazione in zero o piu' passi di un automa a Pila]]
+[[Passo di computazione di un automa a Pila]]
 # Problema
 Devo creare un [[Automi a Pila (PDA)]] che accetta:
 $$ L_{ww^R} = \{ww^R | w \in \{0,1\}^*\} $$
