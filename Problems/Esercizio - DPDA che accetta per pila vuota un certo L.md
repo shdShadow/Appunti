@@ -12,6 +12,6 @@ L'idea e' che:
 - in $q_1$ cancella dalla pila e dall'input
 - in $q_2$ accetta
 Di per se e' molto simile a questo: [[Esercizio - Automa a Pila che accetta L]] con la differenza che dobbiamo fare particolarmente attenzione alla 'c' nel mezzo.
-TODO: immagine automa
+![[Pasted image 20251223122728.png]]
 
 

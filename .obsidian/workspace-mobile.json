@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Teorema (collegameto tra inferenza, derivazioni e alberi sintattici).md",
+                "file": "LinguaggiDiProgrammazione/Nome, Scopi, Binding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teorema (collegameto tra inferenza, derivazioni e alberi sintattici)"
+              "title": "Nome, Scopi, Binding"
             }
           }
         ]
@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Immagine",
+            "query": "TODO",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -170,25 +170,33 @@
       "improved-random-note:Open improved random note": false
     }
   },
-  "active": "10248aee93b9f087",
+  "active": "49d8ba5a698f775f",
   "lastOpenFiles": [
+    "Concepts/trasformazioni tra CFG, PDA per stack vuoto e PDA per Stato Finale.md",
+    "Pasted image 20251223123027.png",
+    "Concepts/rappresentazione funzione di transizione dei PDA in forma grafica..md",
+    "Concepts/funzione di transizione degli stati per automi a pila deterministici.md",
+    "Pasted image 20251223122928.png",
+    "Problems/Esercizio - DPDA che accetta per pila vuota un certo L.md",
+    "Pasted image 20251223122728.png",
+    "Problems/Esercizio - Automa a Pila che accetta L.md",
+    "Pasted image 20251223122610.png",
+    "Problems/Esempio - Trasformazione da CFG a PDA.md",
+    "Pasted image 20251223122459.png",
+    "Concepts/Da stato finale a pila vuota.md",
+    "Pasted image 20251223122338.png",
+    "Concepts/Da pila vuota a stati finali.md",
+    "Pasted image 20251223122231.png",
+    "Concepts/Automi a Pila.md",
+    "Pasted image 20251223122102.png",
+    "Concepts/Teorema (collegameto tra inferenza, derivazioni e alberi sintattici).md",
     "Pasted image 20251222005209.png",
     "Pasted image 20251222005121.png",
-    "Concepts/rappresentazione funzione di transizione dei PDA in forma grafica..md",
-    "Pasted image 20251222004847.png",
     "Concepts/Linguaggi Ambigui.md",
-    "Pasted image 20251222004709.png",
     "Concepts/Grammatiche Ambigue.md",
-    "Pasted image 20251222004607.png",
-    "Pasted image 20251222004521.png",
-    "Problems/Esercizio - Automa a Pila che accetta L.md",
-    "Pasted image 20251222004306.png",
     "Problems/Esempio di computazione di un Automa a pila (PDA).md",
-    "Pasted image 20251222004034.png",
     "Problems/Esempio - Da albero sintattico a derivazione sinistra.md",
-    "Pasted image 20251222003802.png",
     "Concepts/Componenti di un Automa a Pila.md",
-    "Pasted image 20251222003359.png",
     "Concepts/CFL - Context Free Language.md",
     "Concepts/Automi a Pila (PDA).md",
     "Concepts/Ambiguita'.md",
@@ -198,17 +206,9 @@
     "Concepts/come fa un automa a pila a superare il limite degli stati finiti degli epsilon NFA.md",
     "Concepts/pop nei pda.md",
     "Concepts/push nei pda.md",
-    "Concepts/Teorema (collegameto tra inferenza, derivazioni e alberi sintattici).md",
     "Concepts/Grammatiche Regolari.md",
     "Concepts/Come si trasformano regole lineari in un verso nell'altro.md",
-    "Concepts/Se io uso solo regole lineari a sx o dx posso ottenere tutti i linguaggi regolari.md",
-    "Concepts/funzione di transizione degli stati per automi a pila.md",
-    "Untitled.md",
-    "Problems/Esempio - Primo esempio di grammatica regolare e trasformazione.md",
-    "Problems/Esercizio - Trovare linguaggio generato da grammatica regolare.md",
-    "Problems/Esercizio1 - Fornire grammatica regolare con regole lineari a dx e a sx per L.md",
     "Concepts",
-    "LinguaggiDiProgrammazione/confronto.png",
     "LinguaggiDiProgrammazione/nomi_scopi_binding.pdf",
     "LinguaggiDiProgrammazione",
     "Untitled.base",

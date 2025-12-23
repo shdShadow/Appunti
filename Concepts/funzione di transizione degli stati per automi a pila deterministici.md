@@ -11,4 +11,4 @@ Per far si' che si contraddistingua dagli [[Automi a Pila (PDA)]], e' richiesto 
 
 # Sono ammesse le [[Epsilon-mossa|epsilon mosse]] nei [[Automi a Pila (DPDA)|DPDA]]?
 Le [[Epsilon-mossa]] sono ammesse nei [[Automi a Pila (DPDA)]], a patto che non creino casi di non determinismo (dove posso scegliere piu' strade). La seconda condizione qui sopra serve proprio a quello.
-TODO: immagine 
+![[Pasted image 20251223122928.png]]

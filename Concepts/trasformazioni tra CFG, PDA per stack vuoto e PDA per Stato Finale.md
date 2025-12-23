@@ -1,4 +1,4 @@
-TODO: immagine pag pdf 263
+![[Pasted image 20251223123027.png]]
 
 Quindi:
 - da [[Accettazione per pila vuota|pila vuota]] a [[Accettazione per stato finale|stato finale]] si fa cosi': [[Da pila vuota a stati finali]]

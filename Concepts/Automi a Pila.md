@@ -25,8 +25,8 @@ Per vedere la differenza:
 ([[Gerarchia di Chomsky]])
 
 Ecco un diagramma che ci aiuta a capire la differenza di potenza tra [[Automi a Pila (PDA)]], [[Automi a Pila (DPDA)]] che [[Accettazione per pila vuota|per pila vuota]] o [[Accettazione per stato finale|per stato finale]]
-TODO: immagine diagramam chomsky
 
+![[Pasted image 20251223122102.png]]
 Nell'immagine si vede indicato come $L_{wcw^R}$ e' [[Linguaggi prefix free|prefix free]]. Dimostrarlo e' abbastanza facile, basta fare un ragionamento:
 - Se $y \in L_{wcw^R}$ e se x e' prefissa di y, x e' ottenuta da y cancellando un simbolo dalla fine. Ma allora allora x non ha la forma richiesta dal linguaggio.
 Se voglio invece dimostrare che non e' prefix-free

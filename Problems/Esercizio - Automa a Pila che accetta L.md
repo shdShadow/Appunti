@@ -51,4 +51,4 @@ Proviamo con la stringa $w = 1111$. Essendo di base un [[Epsilon-NFA]], per ogni
 - o ci avvaliamo dell'[[oracolo]]
 - oppure ogni possibilita' finisce per "sdoppiare" l'automa
 Andremo a rappresentarla con il secondo caso
-TODO: immagine computazione 1111
+![[Pasted image 20251223122610.png]]
