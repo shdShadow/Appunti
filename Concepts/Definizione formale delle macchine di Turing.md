@@ -11,5 +11,6 @@
 > - $B \in \Gamma \\ \Sigma$ e' il simbolo di Blank
 > 	- Indica che una cella del nastro e' vuota
 > 	- Similmente a [[L'utilita' di Z0]] dove la pila per la [[funzione di transizione degli stati per automi a pila]] non puo' essere mai fisicamente vuota, anche qui le celle non possono essere fisicamente vuote per la [[funzione di transizione delle Macchine di Turing]
+> 		- E' sempre presente in $\Gamma$
 > - $F \subseteq Q$ e' l'insieme degli stati finali o accettanti.
 

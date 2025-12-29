@@ -9,7 +9,7 @@ Vengono qui classificati i vari linguaggi i quali vengono tutti accettati da un 
 Il tipo di essa, e' proprio determinato dalle [[regole-di-pruduzione]]
 # Tipo 0: Generali o Ricorsivamente Enumerabili
 - Le [[regole di produzione di linguaggi ricorsivamente enumerabili|regole di produzione]] hanno queste caratteristiche:
-- Vengono accettati da [[Macchine di Turing]]
+- Vengono accettati da [[Macchine di Turing Deterministiche]]
 # Tipo 1: Contestuali
 - Abbiamo visto degli [[Esempi di linguaggi contestuali]]
 - Le [[regole di produzione di linguaggi contestuali|regole di produzione]] hanno queste caratteristiche

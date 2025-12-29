@@ -14,4 +14,6 @@ Dobbiamo salvare tre cose:
 > 	- Punta al simbolo che sta direttamente a destra
 
 ## Osservazione:
-Assumiamo che $Q \cap \Gamma = \varnothing$, altrimenti diventerebbe un casino distinguere tra caratteri del nastro e stati della [[Macchine di Turing|Macchina di Turing]]
+Assumiamo che $Q \cap \Gamma = \varnothing$, altrimenti diventerebbe un casino distinguere tra caratteri del nastro e stati della [[Macchine di Turing Deterministiche|Macchina di Turing]]
+# Configurazione iniziale
+La configurazione iniziale di una macchina di turing e' sempre $q_0w$, cioe' la testina punta sempre al primo simbolo della stringa w sul nastro.
