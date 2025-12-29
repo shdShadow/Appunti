@@ -34,4 +34,4 @@ Usiamo:
 - $q_2$
 	- Ciclo sulle f cancellandole insieme alle a sulla pila
 	- Quando la pila e' vuota, faccio un [[Epsilon-mossa]] e vado in $q_4$ finale. 
-TODO: immagine esercizio4
+![[Pasted image 20251229231949.png]]

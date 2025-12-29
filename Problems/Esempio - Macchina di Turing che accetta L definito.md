@@ -28,4 +28,5 @@ Quindi la configurazione iniziale sara' $q_00011$
 $$q_00011 \vdash Xq_1011 \vdash X0q_111 \vdash Xq_20Y1 \vdash q_2X0Y1 \vdash Xq_00Y1 \vdash XXq_1Y1 \vdash XXYq_11$$
 $$ \vdash XXq_2YY \vdash Xq_2XYY \vdash XXq_0YY \vdash XXYQ_3Y \vdash XXYYq_3B \vdash XXYYBq_4B$$
 $(q_4,B)$ e' una caso della delta non definito, pertanto la macchina si ferma. $q_4$ e' uno stato finale, quindi la stringa viene accettata.
-TODO: immagine grafico
+
+![[Pasted image 20251229231315.png]]

@@ -19,5 +19,5 @@ Ci avvaleremo di 3 stati:
 - in $q_0$ carico gli zeri
 - con un 1 passo in $q_1$ che cancella gli zeri con gli uni
 - in $q_2$ ci passo solo se la pila e' vuota
-Posso anche rimuovere q2 e far si' che accetti solo per pila vuota.
-TODO: immagine esercizio1 
+Posso anche rimuovere q2 e far si' che accetti solo per pila vuota
+![[Pasted image 20251229231617.png]]

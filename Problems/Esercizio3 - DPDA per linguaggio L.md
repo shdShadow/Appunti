@@ -23,4 +23,4 @@ Usiamo 4 stati:
 	- Se invece in $q_2$ in cima ho $Z_0$ allora passo in $q_3$ finale
 - $q_3$:
 	- Se in q3 leggo invece un altra aperta, torno in $q_1$
-TODO: immagine esercizio3
+![[Pasted image 20251229231908.png]]

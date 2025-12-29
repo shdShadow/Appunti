@@ -1,5 +1,5 @@
 L'unica differenza che hanno con quelle deterministiche e': [[funzione di transizione delle Macchine di Turing#In caso di macchine di Turing non deterministiche]]
-# [[Computazione di una macchine di Turinng non deterministica]]
+# [[Computazione di una macchina di Turing non deterministica]]
 # Sono piu' potenti di quelle deterministiche?
 Anche in questo caso la risposta e' NO. Ci aiuta un teorema:
 > [!theorem]

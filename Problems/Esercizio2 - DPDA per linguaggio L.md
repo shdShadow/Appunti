@@ -16,4 +16,4 @@ Ci avvaliamo di 3 stati:
 	- Se arriva una parentesi chiusa, passo in $q_1$ e cancello sia quella aperta che quella chiusa
 -  In $q_1$ cancello le parentesi chiuse in input con le corrispondenti aperte. Se mi arriva una aperta, torno in $q_0$
 	- Se c'e' $Z_0$ in cima alla pila, allora da $q_1$ passo in $q_2$ che e' stato finale
-TODO: immagine esercizio 2
+ ![[Pasted image 20251229231750.png]]

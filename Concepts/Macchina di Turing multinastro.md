@@ -5,7 +5,7 @@
 	- Terzo come ausiliario
 	- ... fino al k-esimo
 - Ci sara' una testina indipendente per ogni nastro.
-TODO: immagine
+![[Pasted image 20251229233734.png]]
 La [[funzione di transizione delle Macchine di Turing]] sara' definita nel seguente modo:
 $$ \delta: Q \times \Gamma \times \Gamma \times \dots \Gamma \to Q \times (\Gamma \times \{L, R\}) \times \dots \times (\Gamma \times \{L,R\})$$
 perche':
@@ -24,7 +24,7 @@ No, e ci aiuta un teorema:
 ## Dimostrazione
 Data una [[Macchina di Turing multinastro]] io posso costruire, con le dovute modifiche al controllo finito, una simulazione con un [[Macchine di Turing Deterministiche]] a singolo nastro.
 Penso al nastro singolo come fatto a fette e per esempio, con 4 fette, rappresento una macchina a due nastri
-TODO: immagine
+![[Pasted image 20251229234031.png]]
 
 Ogni colonna e' una singola cella della mia simulazione, quindi avra' 4 celle, dove ogni cella conterra' un simbolo di $\Gamma$ .
 Si usano il doppio di "fette" rispetto ai nastri, perche' ogni riga di numero dispari conterra' solo in una cella "X", che funge da testina puntando direttamente alla cella sotto. Dall'immagine vediamo che:
