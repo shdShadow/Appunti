@@ -1,7 +1,7 @@
 Supponiamo che $P1$ sia [[Indecidibilita'|indecidibile]].
 Vogliamo dimostrare che anche $P2$ e' indecidibile. 
 Se $P2$ fosse decidibile, allora $\exists$ un programma che lo risolve.
-TODO: immagine schemino
+![[Pasted image 20260104114621.png]]
 
 Per dimostrare che questo programma non esiste, costruiamo una riduzione:
 - INPUT: istanza di $P1$, cioe' il problema che sappiamo essere indecidibile
@@ -9,11 +9,10 @@ Per dimostrare che questo programma non esiste, costruiamo una riduzione:
 	- Se la risposta di P1 e' si, allora anche per P2 e' si
 	- se no anche per P2 e' no
 	- Se non viene codificata, allora la risposta e' un qualcosa che non codifica un istanza di P2
-TODO immagine
+![[Pasted image 20260104114708.png]]
 
 Costruiamo l'algoritmo:
-
-
+![[Pasted image 20260104114734.png]]
 Quindi abbiamo costruito un algoritmo per P1, ==ma P1 per ipotesi non e' decidibile== quindi questo algoritmo non puo' esistere.
 Supponendo che P1 sia indecidibile, abbiamo dimostrato per P2 e' indecidibile.
 

@@ -1,4 +1,4 @@
-TODO: immagine gerarchia di con ricorsivi...
+![[Pasted image 20260104111950.png]]
 Sono linguaggi accettati dalle [[Macchine di Turing Deterministiche]] con [[Grammatica|Grammatiche]] aventi regole di questo tipo: [[regole di produzione di linguaggi ricorsivamente enumerabili]]
 
 Dal punto di vista dell'[[Indecidibilita']], essi vengono chiamati **semi-decidibili**. (perche' non sempre la [[Macchine di Turing|Mdt]] si ferma.)

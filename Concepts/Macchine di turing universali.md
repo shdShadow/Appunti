@@ -1,5 +1,5 @@
 $\exists$ MdT U ("universale"), che _e' in grado di simulare qualsiasi altra [[Macchine di Turing|Macchina di Turing]]_
-TODO: immagine
+![[Pasted image 20260104113637.png]]
 
 > U si comporta _esattamente_ come M sull'input $w$
 
@@ -15,7 +15,7 @@ E' composta da 4 nastri:
 2. E' il nastro della computazione di M. Sarebbe il nastro che userebbe una M "normale" per la sua computazione
 3. Contiene una rappresentazione dello stato attuale della macchina M
 4. E' un nastro ausiliario
-TODO: immagine
+![[Pasted image 20260104113727.png]]
 
 
 ## Come funziona la computazione di una macchina universale?
@@ -33,5 +33,5 @@ TODO: immagine
 ## Quale e' il linguaggi accettato dalle macchine universali?
 E' detto **linguaggio universale** ed e':
 $$ L_U = \{cod(M)111w\in\{0,1\}^*| w \in L(M)\} $$
-TODO: immagine gerarchia
+![[Pasted image 20260104113801.png]]
 Il linguaggio universale e' un [[linguaggi ricorsivamente enumerabili]] ma **non ricorsivo**.

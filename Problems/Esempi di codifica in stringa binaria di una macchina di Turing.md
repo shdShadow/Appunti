@@ -10,8 +10,7 @@ Dove delta e' definita cosi':
 - $\delta(q_3, 1) = (q_2, 0, R)$
 - $\delta(q_3,B) = (q_3, 1, L)$
 Codifichiamo ora la delta sapendo che ogni indice viene rappresentato con un certo numero di zeri corrispondente all'indice:
-TODO: immagine
-
+![[Pasted image 20260104111453.png]]
 ## Osservazioni
 - Scansionare questa stringa con una [[Macchine di Turing|Mdt]] e' piuttosto semplice. Si gioca tutto andando a vedere il numero di zeri e se ci sono 4 "uni"
 - Senza nemmeno sapere come e' fatta la macchina di Turing, riusciamo a capire che, per esempio, ci sono 3 stati, 3 simboli sul nastro,... guardando solo la codifica

@@ -1,5 +1,5 @@
 Non propriamente una [[Macchine di Turing]] ed e' piu' parente degli [[Automi a Pila (PDA)]]
-TODO: immagine
+![[Pasted image 20260104113906.png]]
 
 C'e' sempre:
 - Un controllo finito che in ogni istante si trova in un certo stato q

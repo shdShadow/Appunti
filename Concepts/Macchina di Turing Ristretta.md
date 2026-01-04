@@ -2,8 +2,8 @@
 > Perche' di solito semplificare il modello semplifica poi le dimostrazioni dei teoremi.
 
 # Restrizione del nastro semi-infinito
-TODO: immagine
 
+![[Pasted image 20260104113411.png]]
 Significa che il nastro e' infinito solo da una parte.  Solitamente si fa andando ad usare un "nastro normale" e dire che la testina non vai piu' mai a sinistra/destra della posizione iniziale.
 
 > [!theorem]
@@ -13,6 +13,5 @@ Significa che il nastro e' infinito solo da una parte.  Solitamente si fa andand
 > 
 > **Dimostrazione per simulazione**
 > Facciamo vedere che $M_1$ simula $M_2$
-> TODO: immagine 
-> 
+>  ![[Pasted image 20260104113530.png]]
 > 

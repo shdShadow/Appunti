@@ -6,7 +6,7 @@
 > [!theorem]
 > Se un linguaggio L e' accettato da una [[Macchine di Turing|MdT]] allora e' accettato da un [[Automi a Pila (DPDA)|DPDA]] con 2 pile
 > **Dimostrazione (come al solito per simulazione)**:
-> TODO: immagine
+![[Pasted image 20260104114310.png]]> 
 > E' come se:
 > - Tagliassi il nastro della Mdt dove e' posizionata l mia testina e:
 > 	- La parte a sinistra della testina (solo Blank) va nella prima pila

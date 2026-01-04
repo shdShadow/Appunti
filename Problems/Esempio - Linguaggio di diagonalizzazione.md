@@ -4,7 +4,7 @@
 - [[Macchine di Turing#Problemi di Indecidibilita' espressi secondo le macchine di Turing]]
 # Esempio
 - Consideriamo questa tabella fatta cosi':
-TODO: immagine tabella
+![[Pasted image 20260104111630.png]]
 
 - Infinite righe e colonne
 - Ogni colonna ha una stringa binaria
