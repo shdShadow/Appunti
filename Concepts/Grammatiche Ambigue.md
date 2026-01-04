@@ -24,7 +24,7 @@ Ma per un parser sono sintatticamente uguale e indistinguibili fra loro perche' 
 ## Si puo' risolvere?
 Si (a volte), ma per prima cosa dovremmo capire se la grammatica e' ambigua e:
 > [!caution]
-> Non esiste nessun algoritmo che data una grammatica mi dice se tale grammatica e' ambigua oppure no. E' [[indecidibilita'|indecidibile]]
+> Non esiste nessun algoritmo che data una grammatica mi dice se tale grammatica e' ambigua oppure no. E' [[Indecidibilita'|indecidibile]]
 
 Ma NON ESISTE NEMMENO UN ALGORITMO CHE SIA IN GRADO DI "METTERE A POSTO" UNA GRAMMATICA AMBIGUA
 

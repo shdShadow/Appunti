@@ -14,7 +14,7 @@ Anche in questo caso la risposta e' NO. Ci aiuta un teorema:
 > 	- continuo su $C_1$, ...
 > 	- Quando trova una configurazione accettante, si ferma e la stringa viene accettata
 >
->In pratica, la [[Macchine di Turing (Deterministiche)]] deterministica, simula quella la [[Macchine di Turing non deterministiche]] visitando l'albero di computazione di quell'input in ampiezza, cioe' per livelli.
+>In pratica, la [[Macchine di Turing]] deterministica, simula quella la [[Macchine di Turing non deterministiche]] visitando l'albero di computazione di quell'input in ampiezza, cioe' per livelli.
 
 
 

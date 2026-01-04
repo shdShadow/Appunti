@@ -31,3 +31,4 @@ Si usano il doppio di "fette" rispetto ai nastri, perche' ogni riga di numero di
 - La prima X punta ad $A_i$ indicando appunto che sarebbe la prima testina del primo nastro, che punta ad un certo simbolo $A_i$
 - Allo stesso modo fa la seconda X per il secondo nastro simulato 
 La macchina continuera' poi andare avanti e indietro cercando le varie X e operando di conseguenza.
+Siccome la macchina multinastro e' simulabile da una macchina di turing a singolo nastro, allora accetta la stessa categoria di linguaggi.

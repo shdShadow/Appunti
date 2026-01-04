@@ -10,6 +10,9 @@ Per comprendere come opera una MdT, bisogna analizzare come interagisce con il n
 - [[Come accettano le Mdt]]
 - [[Cosa succede alla stringa in input nelle MdT]]
 - [[Linguaggi accettati dalle Macchine di Turing]]
+- [[Macchine di Turing che accettano il linguaggio vuoto]]
+- [[Macchine di turing universali|linguaggio universale]]
+
 # Descrizione della Computazione
 - Lo stato attuale della macchina di Turing e' definita dalla sua configurazione: [[Descrizione istantanee delle MdT]]
 - Il passaggio tra le varie [[Descrizione istantanee delle MdT|configurazioni]] e' possibile grazie ai [[Passo di computazione di una Macchina di Turing|passi di computazione]]
@@ -27,3 +30,14 @@ Dispone di k nastri e k testine indipendenti e viene simulata da una mdt a nastr
 
 ## Macchine di Turing che puo' stare ferma
 Variante in cui la testi puo' anche non spostarsi. Simulabile con una sequenza di movimenti R e poi L.
+
+# [[Macchina di Turing Ristretta]]
+
+# [[Macchine Multistack]]
+
+# [[Macchine di turing universali]]
+
+# Problemi di [[Indecidibilita']] espressi secondo le macchine di Turing
+Per farlo, dobbiamo farlo per passi, non e' cosi' semplice.
+1. [[Enumerazione delle stringhe binarie]]
+2. [[Codifica di MdT come stringhe binarie]]
