@@ -1,5 +1,8 @@
 ---
-date created: 2025-12-22 18:42
+chapter: "6"
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
 ---
 
 La funzione ha questo dominio e' codominio

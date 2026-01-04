@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - esempio
+---
 # Concetti utilizzati
 - [[Indecidibilita']]
 - [[Macchine di Turing]]

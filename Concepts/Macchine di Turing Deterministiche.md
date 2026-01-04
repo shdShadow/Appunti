@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+---
 ## Definizioni:
 - [[Introduzione alle Macchine di Turing in modo informale]]
 - [[Definizione formale delle macchine di Turing]]

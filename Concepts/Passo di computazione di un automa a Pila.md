@@ -1,3 +1,10 @@
+---
+chapter: "6"
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+  - insight
+---
 Sia $P = (Q, \Sigma, \Gamma, \delta, q_0, Z_0, F)$ un [[Automi a Pila (PDA)|PDA]]/[[Automi a Pila (DPDA)|DPDA]].
 Definiamo $\vdash_p (\vdash)$ come segue:
 - Supponiamo che $(p, \alpha)$ $\in \delta(q,a,x)$

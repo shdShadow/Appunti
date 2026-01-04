@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+---
 # Intro
 Le macchine di Turing rappresentano il modello matematico fondamentale della computazione. A differenza degli automi a pila, hanno un nastro infinito che funge sia da memoria che da supporto per l'input.
 [[Introduzione alle Macchine di Turing in modo informale]]

@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+---
 > [!definition]
 > Supponiamo che la [[Macchine di Turing Deterministiche|MdT]] M si trovi nella [[Descrizione istantanee delle MdT|configurazione]] (ID) corrente:
 > $$ X_1X_2...X_{i-1}qX_iX_{i+1}...X_n$$ 

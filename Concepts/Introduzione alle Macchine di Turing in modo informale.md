@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+  - insight
+---
 # Descrizione informale
 Turing voleva dimostrare che esistesse un algoritmo in grado di dimostrare teoremi e ci provo' creando appunti la [[Macchine di Turing Deterministiche|Macchina di turing]]. Lo dimostro' in realta' Godel, dicendo che tale algoritmo non potesse esistere. Ma il teorema era puramente logico e Turing voleva qualcosa di piu' vicino alle macchine
 I componenti sono:

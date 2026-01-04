@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+---
 # Determistiche
 > [!question] Che linguaggi accettano?
 > Abbiamo gia' visto che se abbiamo 1 sola pila, con gli [[Automi a Pila (DPDA)]] accettiamo meno dei [[CFL - Context Free Language]] ([[Cosa accettano i DPDA]])

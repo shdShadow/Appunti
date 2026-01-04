@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - esercizio
+---
 # Concetti utilizzati
 [[Automi a Pila (DPDA)]]
 [[funzione di transizione degli stati per automi a pila deterministici]]

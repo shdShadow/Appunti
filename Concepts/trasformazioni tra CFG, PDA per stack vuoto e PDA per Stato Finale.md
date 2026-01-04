@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+---
 ![[Pasted image 20251223123027.png]]
 
 Quindi:

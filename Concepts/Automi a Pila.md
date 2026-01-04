@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+---
 # Definizioni di Base
 - [[Definizione formale di automi a pila]]
 - [[Componenti di un Automa a Pila]]

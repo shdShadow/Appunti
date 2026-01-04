@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+---
 #### Da pila vuota a stati finali
 > [!theorem]
 > Sia $L = N(P_N)$ per un [[Automi a Pila (PDA)|PDA]] $P_N = (Q, \Sigma, \Gamma, \delta_N, q_0, Z_0)$ allora $\exists$ un PDA $P_F$ tale che $L(P_F) = L$ (Esiste un pda per stati finali che accetta lo stesso linguaggio di quello per pila vuota.)

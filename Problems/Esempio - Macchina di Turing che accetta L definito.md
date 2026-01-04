@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - esempio
+  - esercizio
+---
 # Concetti utilizzati
 - [[Macchine di Turing Deterministiche]]
 - [[Definizione formale delle macchine di Turing]]

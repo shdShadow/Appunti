@@ -1,7 +1,7 @@
 ---
 tags:
-  - esercizio
   - insight
+  - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
 ---

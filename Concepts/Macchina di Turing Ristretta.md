@@ -1,3 +1,9 @@
+---
+tags:
+  - evergreen
+chapter: 7-8
+course: Linguaggi e Computabilita'
+---
 > [!question] Perche' uno le vorrebbe limitare?
 > Perche' di solito semplificare il modello semplifica poi le dimostrazioni dei teoremi.
 

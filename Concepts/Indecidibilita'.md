@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+---
 Esistono un gran numero di problemi detti **indecidibili**, cioe' che non esiste un algoritmo in grado di risolverli.
 
 ## Esempi:

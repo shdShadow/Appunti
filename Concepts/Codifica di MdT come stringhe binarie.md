@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+  - insight
+---
 $$\text{MdT } M \to \text{cod}(M) \in \{0,1\}^*$$
 La [[Definizione formale delle macchine di Turing|definizione]] per le macchine di turing da codificare sara' la seguente:
 $$M = (Q, \{0,1\}, \Gamma, \delta, q_1, B, \{q_2\})$$dove:

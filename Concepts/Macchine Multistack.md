@@ -1,3 +1,9 @@
+---
+chapter: 7-8
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+---
 Non propriamente una [[Macchine di Turing]] ed e' piu' parente degli [[Automi a Pila (PDA)]]
 ![[Pasted image 20260104113906.png]]
 

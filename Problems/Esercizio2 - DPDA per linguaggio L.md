@@ -1,3 +1,9 @@
+---
+chapter: "6"
+course: Linguaggi e Computabilita'
+tags:
+  - esercizio
+---
 # Concetti utilizzati
 - [[Automi a Pila]]
 - [[Automi a Pila (DPDA)]]

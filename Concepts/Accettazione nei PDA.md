@@ -1,3 +1,9 @@
+---
+chapter: "6"
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+---
 Abbiamo gia' visto come i PDA accettano:
 - [[Accettazione per pila vuota]]
 - [[Accettazione per stato finale]]

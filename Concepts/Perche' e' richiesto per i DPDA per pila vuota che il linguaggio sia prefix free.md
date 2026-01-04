@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+  - insight
+---
 Supponiamo che $L$ non sia [[Linguaggi prefix free|prefix free]] quindi:
 $$ \exists x,y \in L t.c \text{ che } y=xw $$
 Supponiamo per assurdo che esista un [[Automi a Pila (DPDA)|DPDA]] P tale che L = N(P).

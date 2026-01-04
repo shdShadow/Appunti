@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+tags:
+  - esempio
+chapter: 7-8
+---
 # Concetti usati
 - [[Macchine di Turing]]
 - [[Enumerazione delle stringhe binarie]]

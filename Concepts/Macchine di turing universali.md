@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+---
 $\exists$ MdT U ("universale"), che _e' in grado di simulare qualsiasi altra [[Macchine di Turing|Macchina di Turing]]_
 ![[Pasted image 20260104113637.png]]
 

@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+---
 # Definizione
 Sia $P=(Q, \Sigma, \Gamma, \delta, q_0, Z_0, F)$ un [[Automi a Pila (PDA)|PDA]]/[[Automi a Pila (DPDA)|DPDA]]. Il [[CFL - Context Free Language|linguaggio]] accettato da P per **stato finale** e':
 $$ L(P) = \{w \in \Sigma^* | (q_0, w, Z_0) \vdash^* (q, \varepsilon, \alpha) \text{ con }q \in F , \alpha \in \Gamma^*\}$$

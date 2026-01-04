@@ -1,7 +1,6 @@
 ---
 tags:
-  - evergreen
-  - draft
+  - esercizio
 course: Linguaggi e Computabilita'
 chapter: "5"
 ---

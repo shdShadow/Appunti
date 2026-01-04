@@ -3,7 +3,7 @@ tags:
   - evergreen
   - insight
 course: Linguaggi e Computabilita'
-chapter:
+chapter: 7-8
 ---
 Le [[regole-di-pruduzione]] di un linguaggio ricorsivamente enumerabile hanno queste caratteristiche:
 - $\alpha \to \beta, con \ \alpha, \beta \in (V \cup T)^*$

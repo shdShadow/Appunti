@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+---
 Iniziamo con un esempio:
 [[Esempio - Trasformazione da CFG a PDA]]
 # Come funziona la trasformazione (formale)

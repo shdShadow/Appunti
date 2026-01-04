@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+  - insight
+---
 **Obiettivo:** fare un elenco di tutte le stringhe binarie ($\{0,1\}^*$) di qualunque lunghezza, e tale elenco deve contenere _tutte le stringhe binarie possibili_ 
 Il modo piu' facile per elencarle e farlo tramite un elencazione in ordine **crescente di lunghezza**:
 

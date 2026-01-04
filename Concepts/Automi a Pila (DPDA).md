@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+---
 # In soldoni
 Un **automa a pila deterministico** e' _quasi_ un [[DFA]]  + una pila (stack)
 # Info utili
@@ -14,3 +20,9 @@ Un **automa a pila deterministico** e' _quasi_ un [[DFA]]  + una pila (stack)
 > Se L = L(P) per un DPDA P, allora L ha un [[Grammatiche CF - CFG|CFG]] non [[Ambiguita'|ambigua]]
 
 Quindi non c'e' relazione tra linguaggi accettati per pila vuota e quelli generati con grammatiche ambigue. A prescindere i DPDA accettano linguaggi generati da gramamtiche non ambigue
+
+## Esercizi
+- [[Esercizio1 - DPDA per linguaggio L]]
+- [[Esercizio2 - DPDA per linguaggio L]]
+- [[Esercizio3 - DPDA per linguaggio L]]
+- [[Esercizio4 - DPDA per linguaggio L]]

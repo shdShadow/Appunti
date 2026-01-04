@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - esercizio
+  - esempio
+---
 # Esempio 
 Si consideri una [[Grammatiche CF - CFG|CFG]] con le seguenti regole: $S \to aSb | ab$.
 Il [[Automi a Pila (PDA)|PDA]] che viene generato ha un solo stato, e su di esso ha tutte le transizioni associate ad un cappio.

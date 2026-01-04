@@ -1,6 +1,5 @@
 ---
 tags:
-  - evergreen
   - esercizio
 course: Linguaggi e Computabilita'
 chapter: "5"

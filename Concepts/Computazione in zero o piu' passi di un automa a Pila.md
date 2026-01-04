@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "6"
+tags:
+  - evergreen
+  - insight
+---
 Come abbiamo gia' fatto in [[derivazione in zero o piu' passi]], la si definisce in modo induttivo.
 
 Definiamo $\vdash_p^* (\vdash^*)$ in modo induttivo come:

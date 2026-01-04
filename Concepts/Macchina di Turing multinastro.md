@@ -1,3 +1,9 @@
+---
+chapter: 7-8
+tags:
+  - evergreen
+course: Linguaggi e Computabilita'
+---
 - Ha sempre un solo controllo finito
 - Un certo numero di nastri. Per esempio:
 	- Primo che si usa come nastro di input per $w$
