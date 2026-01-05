@@ -4,6 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: "5"
+known: "False"
 ---
 Ci sono due livelli di ambiguita':
 - [[Grammatiche Ambigue]]

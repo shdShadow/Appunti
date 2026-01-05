@@ -4,6 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: Any
+known: "False"
 ---
 Vengono qui classificati i vari linguaggi i quali vengono tutti accettati da un certo tipo di [[Grammatica]] $G = (V,T,P,S)$. 
 Il tipo di essa, e' proprio determinato dalle [[regole-di-pruduzione]]

@@ -3,6 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
+known: "False"
 ---
 # Overview
 E' il linguaggio, quindi l'insieme delle stringhe, generato da una certa [[Grammatiche CF - CFG|CFG]].

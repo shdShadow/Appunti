@@ -4,6 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: "5"
+known: "False"
 ---
 Un **linguaggio contestuale** e' un linguaggio generato da una [[Grammatica contestuale]]
 
