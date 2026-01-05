@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 # Cosa ci permette di distinguere una grammatica CFG dalle altre?
 La differenza chiave sta nelle [[regole-di-pruduzione|regole di produzione]], la cui testa deve essere sempre limitata ad una sola variabile.

@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 # Overview
 E' il linguaggio, quindi l'insieme delle stringhe, generato da una certa [[Grammatiche CF - CFG|CFG]].
@@ -24,7 +24,7 @@ Nei linguaggi [[CFL - Context Free Language|context free]] esistono solo 2 tipi 
 	- [[Esercizio 2 - Fornire CFG per linguaggio L]]
 Al contrario, un esempio di linguaggio non CFL e' il seguente:
 $L = \{a^nb^kc^nd^k\}$
-si nota che non e' CFL perche' i due sottolinguaggi (si guardi gli esponenti) non sono ne nidificati ne concatenati ma incrociati, cosa che non e' possibile nei CFL ma solo nei [[linguaggi di tipo 1: contestuali]]
+si nota che non e' CFL perche' i due sottolinguaggi (si guardi gli esponenti) non sono ne nidificati ne concatenati ma incrociati, cosa che non e' possibile nei CFL ma solo nei [[Linguaggi Contestuali]]
 
 # Backlinks
 - [[Grammatiche CF - CFG]]

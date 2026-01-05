@@ -3,7 +3,7 @@ tags:
   - evergreen
   - insight
 course: Linguaggi e Computabilita'
-chapter: Any
+chapter: Appendix
 known: "False"
 ---
 # Se io uso solo regole lineari a sx/dx posso ottenere tutti i linguaggi regolari

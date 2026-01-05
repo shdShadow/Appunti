@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 ## Esempio 1:
 $L = \{a^nb^nc^n | n \geq 1\}$
