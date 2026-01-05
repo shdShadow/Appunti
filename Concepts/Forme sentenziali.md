@@ -4,6 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: "5"
+known: "True"
 ---
 # Cosa e' una forma sentenziale
 Tutto quello che si ottiene, cioe' la stringa ottenuta, a seguito di un [[passo di derivazione]], e' detta **[[Forme sentenziali|forma sentenziale]]**
