@@ -1,9 +1,9 @@
 ---
 tags:
-  - esercizio
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: Appendix
+known: "True"
 ---
 Le [[regole-di-pruduzione]] sono:
 - $A \to aB, A \to a \ per \ A,B \in V, a \in T$ **lineare a destra**

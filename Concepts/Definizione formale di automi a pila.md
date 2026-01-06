@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
+known: "False"
 ---
 # Definizione formale
 Un _automa [[Automi a Pila|automa a pila]]_ e' una settupla $P = (Q, \Sigma, \Gamma, \delta, q_0, Z_0, F)$:

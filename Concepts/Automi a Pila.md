@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
+known: "False"
 ---
 # Definizioni di Base
 - [[Definizione formale di automi a pila]]

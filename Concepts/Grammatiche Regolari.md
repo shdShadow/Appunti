@@ -1,9 +1,10 @@
 ---
 tags:
-  - esercizio
   - insight
+  - evergreen
 course: Linguaggi e Computabilita'
 chapter: Appendix
+known: "True"
 ---
 Generano [[linguaggi regolari]].
 La definizione e' sempre la stessa, uguale per tutte le [[Grammatica|grammatiche]]

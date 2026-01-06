@@ -4,6 +4,7 @@ tags:
   - evergreen
   - insight
 chapter: Appendix
+known: "True"
 ---
 Non esiste una tecnica precisa, solitamente si utilizzano delle variabili d'appoggio ed e' richiesto di riscrivere praticamente la [[Grammatiche Regolari|grammatica]] da zero. Pero' questo e' dato da questa osservazione: [[regole di produzione di linguaggi regolari#Particolarita']]:
 > [!caution] 

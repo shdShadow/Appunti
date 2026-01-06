@@ -4,6 +4,7 @@ chapter: "6"
 tags:
   - evergreen
   - insight
+known: "False"
 ---
 Supponiamo che $L$ non sia [[Linguaggi prefix free|prefix free]] quindi:
 $$ \exists x,y \in L t.c \text{ che } y=xw $$

@@ -3,6 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "6"
+known: "False"
 ---
 Simili ai vari tipi di [[Grafo]]:
 - Stato iniziale si indica con un arco entrante in un nodo senza origine con l'etichetta start

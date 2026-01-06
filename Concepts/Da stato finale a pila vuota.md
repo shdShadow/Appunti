@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
+known: "False"
 ---
 #### Da stato finale a pila vuota
 > [theorem]

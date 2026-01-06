@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 tags:
   - evergreen
 chapter: "6"
+known: "False"
 ---
 Un [[Automi a Pila (PDA)]] e' formato da:
 ![[Pasted image 20251222003359.png]]

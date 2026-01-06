@@ -1,8 +1,17 @@
 # Teoria
 ```dataview
 TABLE
-WHERE (chapter = "6" or chapter = "Any") and contains(tags, "evergreen")
+WHERE chapter = "6" and contains(tags, "evergreen")
 ```
+```dataview
+TABLE
+WHERE chapter = "6"  and known = "True"
+```
+```dataview
+TABLE 
+WHERE chapter = "6" and known = "False"
+```
+
 
 # Esercizi
 ```dataview

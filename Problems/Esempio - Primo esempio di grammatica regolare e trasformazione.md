@@ -2,7 +2,7 @@
 tags:
   - esercizio
 course: Linguaggi e Computabilita'
-chapter: Any
+chapter: Appendix
 ---
 ## Esempio:
 Consideriamo sempre la grammatica delle espressioni:

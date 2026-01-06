@@ -3,6 +3,7 @@ chapter: "6"
 course: Linguaggi e Computabilita'
 tags:
   - evergreen
+known: "False"
 ---
 Abbiamo gia' visto come i PDA accettano:
 - [[Accettazione per pila vuota]]

@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
+known: "False"
 ---
 ![[Pasted image 20251223123027.png]]
 

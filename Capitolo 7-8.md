@@ -1,6 +1,6 @@
 # Teoria
 ```dataview
-LIST 
+TABLE
 WHERE (chapter = "7-8" or chapter = "Any") and contains(tags, "evergreen")
 ```
 

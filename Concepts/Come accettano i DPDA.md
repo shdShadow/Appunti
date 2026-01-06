@@ -4,6 +4,7 @@ chapter: "6"
 tags:
   - evergreen
   - insight
+known: "False"
 ---
 Accettano esattamente allo stesso modo dei [[Automi a Pila (PDA)|PDA]]:
 - [[Accettazione per pila vuota]]

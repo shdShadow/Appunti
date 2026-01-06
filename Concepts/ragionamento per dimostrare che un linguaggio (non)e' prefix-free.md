@@ -4,6 +4,7 @@ chapter: "6"
 tags:
   - evergreen
   - insight
+known: "False"
 ---
 Se voglio dimostrare che e' prefix free:
 - Non e' difficile, basta prendere la definizione generale di una stringa di quel linguaggio, supporre di tirarne fuori una prefissa cancellando uno o piu' caratteri dalla fine e vedere se rispetta ancora la definizione del linguaggio. 
