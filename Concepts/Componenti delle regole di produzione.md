@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: Any
-known: "True"
+known: "False"
 ---
 Data una [[Grammatiche CF - CFG|grammatica]] CF G = (V, T, P, S) alcune regole di produzione possono essere: (Sono esempi)
 $$ A \to 0 $$

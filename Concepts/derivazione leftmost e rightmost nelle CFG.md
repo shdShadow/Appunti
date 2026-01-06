@@ -4,7 +4,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "True"
+known: "False"
 ---
 Si parla di derivazione di una stringa leftmost o rightmost rispettivamente quando vado a sostituire sempre la variabile piu' a sinistra o piu' a destra durante l'applicazione delle [[regole-di-pruduzione]] (durante i vari [[passo di derivazione|passi di derivazione]]) di una [[Grammatica]].
 

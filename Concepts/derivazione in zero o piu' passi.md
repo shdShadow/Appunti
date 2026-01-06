@@ -4,7 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: Any
-known: "True"
+known: "False"
 ---
 Si parla di [[derivazione in zero o piu' passi]] quando si vuole indicare che una stringa e' ottenibile da una grammatica, applicando un certo numero di [[regole-di-pruduzione|regole di produzione]] in un certo ordine
 ## Come si indica?

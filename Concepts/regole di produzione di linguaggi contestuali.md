@@ -4,7 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "True"
+known: "False"
 ---
 Le [[regole-di-pruduzione]] sono:
 - $\alpha \to \beta \ con \ \alpha ,\beta \in (V \cup T)^*$

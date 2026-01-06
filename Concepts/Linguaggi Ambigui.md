@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "True"
+known: "False"
 ---
 # Definizione
 Un [[CFL - Context Free Language|CFL]] e' ambiguo se ammette solo [[Grammatiche Ambigue]].

@@ -4,7 +4,7 @@ tags:
   - insight
 chapter: "5"
 course: Linguaggi e Computabilita'
-known: "True"
+known: "False"
 ---
 Le [[regole-di-pruduzione]] di una CFG hanno queste caratterestiche:
 Le [[regole-di-pruduzione|regole di produzione]] hanno sempre:

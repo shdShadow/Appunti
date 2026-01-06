@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "True"
+known: "False"
 ---
 > [!definition]
 > Data una [[Grammatiche CF - CFG|CFG]] G = (V, T, P, S).
