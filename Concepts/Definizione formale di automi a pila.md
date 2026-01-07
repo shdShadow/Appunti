@@ -14,5 +14,5 @@ Un _automa [[Automi a Pila|automa a pila]]_ e' una settupla $P = (Q, \Sigma, \Ga
 - _$q_0 \in Q$_: e' lo stato iniziale
 - _$Z_0 \in \Gamma$_: e' il simbolo inizialmente presente nella pila
 	- Si vede nell'immagine in [[Componenti di un Automa a Pila]]
-	- [[funzione di transizione degli stati per automi a pila non deterministici#L'utilita' di Z0|Perche' Z0 serve?]]
+	- [[L'utilita' di Z0]]
 - _$F \subseteq Q$_: e' l'insiemi degli stati finali o accettanti

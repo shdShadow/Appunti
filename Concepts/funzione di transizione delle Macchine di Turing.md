@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "True"
 ---
 Data una [[Definizione formale delle macchine di Turing|MdT]] la delta ha queste caratteristiche:
 $$ \delta \times \Gamma \to Q \times \Gamma \times \{L,R\}$$

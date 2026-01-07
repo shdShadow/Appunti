@@ -4,6 +4,7 @@ tags:
   - evergreen
   - insight
 chapter: 7-8
+known: "True"
 ---
 A differenza di [[Automi a Pila]], [[Automia Stati finiti]], ... la stringa **non viene consumata**. La macchina di Turing legge la stringa sul nastro e poi puo' farne quello che vuole:
 - Modificarla con altri simboli

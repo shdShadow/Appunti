@@ -9,7 +9,7 @@ known: "False"
 Sia $P = (Q, \Sigma, \Gamma, \delta, q_0, Z_0, F)$ un [[Automi a Pila (PDA)|PDA]]/[[Automi a Pila (DPDA)|DPDA]].
 Definiamo $\vdash_p (\vdash)$ come segue:
 - Supponiamo che $(p, \alpha)$ $\in \delta(q,a,x)$
-	- Supponiamo che questa sia una delle coppie appartenga all'**insieme di coppie** della delta, perche' come si vede in [[funzione di transizione degli stati per automi a pila non deterministici]], si nota come il codominio produca un insieme di coppie e non una singola coppia
+	- Supponiamo che questa sia una delle coppie appartente all'**insieme di coppie** della delta, perche' come si vede in [[funzione di transizione degli stati per automi a pila non deterministici]], si nota come il codominio produca un insieme di coppie e non una singola coppia
 - Allora $\forall w \in \Sigma^*$ e $\forall \beta \in \Gamma^*$ si ha che:
 $$ (q, aw, x\beta) \vdash (p, w, \alpha\beta) $$
 dove:
