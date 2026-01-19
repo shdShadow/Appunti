@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: Any
-known: "False"
+known: "True"
 ---
 # Cosa sono?
 Nelle grammatiche, le regole di produzione sono appunto delle regole che ci permettono di trasformare una certa categoria sintattica (insieme di simboli $(V \cup T)^*)$ in variabili altre [[Forme sentenziali]]

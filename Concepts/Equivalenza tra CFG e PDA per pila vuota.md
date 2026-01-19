@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
-known: "False"
+known: "True"
 ---
 Iniziamo con un esempio:
 [[Esempio - Trasformazione da CFG a PDA]]

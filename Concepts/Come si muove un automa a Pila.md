@@ -4,7 +4,7 @@ tags:
   - evergreen
   - insight
 chapter: "6"
-known: "False"
+known: "True"
 ---
 Il concetto e' simile a quello visto con gli altri [[Automi]], solo che possiamo dare la definizione formale di:
 - [[Passo di computazione di un automa a Pila]]

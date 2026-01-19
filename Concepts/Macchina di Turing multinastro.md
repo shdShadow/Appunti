@@ -3,6 +3,7 @@ chapter: 7-8
 tags:
   - evergreen
 course: Linguaggi e Computabilita'
+known: "False"
 ---
 - Ha sempre un solo controllo finito
 - Un certo numero di nastri. Per esempio:

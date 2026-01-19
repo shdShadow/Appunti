@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 tags:
   - evergreen
 chapter: "6"
-known: "False"
+known: "True"
 ---
 In generale la $\delta$ ha questa definizione:
 $$ \delta: Q \times (\Sigma \ \cup \{\varepsilon\} ) \times \Gamma \to 2^Q \times \Sigma^* $$

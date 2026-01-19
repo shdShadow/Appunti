@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 - **INPUT**: Programma P, input I per il programma P
 - **DOMANDA**: il programma P con input I, prima o poi stampa la stringa "Ciao Mondo"?

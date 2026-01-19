@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 # Teorema
 > [!theorem] Collegamento tra inferenza, derivazioni e alberi sintattici

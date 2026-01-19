@@ -3,7 +3,7 @@ chapter: "6"
 course: Linguaggi e Computabilita'
 tags:
   - evergreen
-known: "False"
+known: "True"
 ---
 
 La funzione ha questo dominio e' codominio

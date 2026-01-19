@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 L'unica differenza che hanno con quelle deterministiche e': [[funzione di transizione delle Macchine di Turing#In caso di macchine di Turing non deterministiche]]
 # [[Computazione di una macchina di Turing non deterministica]]

@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 > [!definition]
 > Supponiamo che la [[Macchine di Turing Deterministiche|MdT]] M si trovi nella [[Descrizione istantanee delle MdT|configurazione]] (ID) corrente:

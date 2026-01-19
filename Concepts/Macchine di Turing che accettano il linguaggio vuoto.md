@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 Possiamo definire due linguaggi: 
 - $L_e = \{cod(M) \in \{0,1\}^*| L(M) =\varnothing\} = \{M | L(M) = \varnothing\}$

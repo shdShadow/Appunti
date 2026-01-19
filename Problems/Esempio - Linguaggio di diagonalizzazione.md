@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - esempio
+known: "False"
 ---
 # Concetti utilizzati
 - [[Indecidibilita']]

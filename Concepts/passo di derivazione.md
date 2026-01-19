@@ -4,7 +4,7 @@ tags:
   - draft
 course: Linguaggi e Computabilita'
 chapter: Any
-known: "False"
+known: "True"
 ---
 Data una [[Grammatica]] G, un passo di derivazione rappresenta l'applicazione di una delle regole di produzione su un gruppo di simboli (una variabile, piu' variabili, simboli e variabili, ... in base al tipo di [[Grammatica]]), ottenendo quindi delle [[Forme sentenziali|forme sentenziali]]
 ## Come funziona un passo di derivazione?

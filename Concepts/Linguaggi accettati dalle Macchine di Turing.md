@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 tags:
   - evergreen
 chapter: 7-8
+known: "False"
 ---
 # Definizione di linguaggio accettato
 > [!definition]:

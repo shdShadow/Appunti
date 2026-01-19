@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
-known: "True"
+known: "False"
 ---
 # Macchina di Turing (MdT)
 > [!definition]

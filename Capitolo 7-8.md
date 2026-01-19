@@ -1,7 +1,7 @@
 # Teoria
 ```dataview
 TABLE
-WHERE (chapter = "7-8" or chapter = "Any") and contains(tags, "evergreen")
+WHERE chapter = "7-8" and contains(tags, "evergreen")
 ```
 ```dataview
 TABLE 

@@ -4,6 +4,7 @@ chapter: 7-8
 tags:
   - evergreen
   - insight
+known: "False"
 ---
 $$\text{MdT } M \to \text{cod}(M) \in \{0,1\}^*$$
 La [[Definizione formale delle macchine di Turing|definizione]] per le macchine di turing da codificare sara' la seguente:

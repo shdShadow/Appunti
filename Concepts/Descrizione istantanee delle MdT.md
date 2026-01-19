@@ -1,3 +1,6 @@
+---
+known: "False"
+---
 # Informalmente
 Dobbiamo salvare tre cose:
 - Lo stato attuale

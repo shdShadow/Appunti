@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 # Determistiche
 > [!question] Che linguaggi accettano?

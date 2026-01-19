@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
-known: "False"
+known: "True"
 ---
 > [!definition]
 > Una **configurazione** o **descrizione istantanea** di un [[Automi a Pila (PDA)|PDA]]/[[Automi a Pila (DPDA)|DPDA]] e' una _tripla_ $(q, w, \gamma)$ dove:

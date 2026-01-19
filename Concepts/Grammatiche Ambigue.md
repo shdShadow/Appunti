@@ -3,7 +3,7 @@ tags:
   - evergreen
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 Vediamo un esempio che usa sempre la [[Grammatiche CF - CFG|CFG]] delle espressioni che prova a derivare la stringa $E + E * E$ in due modi diversi.
 La grammatica aveva queste regole di produzione

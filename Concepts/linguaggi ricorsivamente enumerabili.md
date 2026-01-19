@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 ![[Pasted image 20260104111950.png]]
 Sono linguaggi accettati dalle [[Macchine di Turing Deterministiche]] con [[Grammatica|Grammatiche]] aventi regole di questo tipo: [[regole di produzione di linguaggi ricorsivamente enumerabili]]

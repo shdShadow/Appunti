@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
-known: "False"
+known: "True"
 ---
 # Definizione
 Un linguaggio L ha la **proprieta' di prefisso** se $\nexists x,y \in L \text{ con } x \neq y$ e x e' prefissa di y

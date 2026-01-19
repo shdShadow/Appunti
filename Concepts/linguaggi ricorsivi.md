@@ -4,6 +4,7 @@ chapter: 7-8
 tags:
   - evergreen
   - insight
+known: "False"
 ---
 # Linguaggi ricorsivi
 Dal punto di vista dell'[[Indecidibilita']] vengono detti decidibili

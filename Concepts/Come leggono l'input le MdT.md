@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 tags:
   - evergreen
 chapter: 7-8
-known: "True"
+known: "False"
 ---
 
 A differenza degli [[Automi a Pila]], le [[Macchine di Turing]] leggono l'input in modo differente, cioe' **tutto all'inizio**. 

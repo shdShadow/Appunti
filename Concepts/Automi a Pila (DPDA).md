@@ -3,7 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: "6"
 tags:
   - evergreen
-known: "False"
+known: "True"
 ---
 # In soldoni
 Un **automa a pila deterministico** e' _quasi_ un [[DFA]]  + una pila (stack)

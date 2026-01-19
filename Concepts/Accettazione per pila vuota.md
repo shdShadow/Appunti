@@ -4,7 +4,7 @@ chapter: "6"
 tags:
   - evergreen
   - insight
-known: "False"
+known: "True"
 ---
 # Definizione 
 Sia $P = (Q,\Sigma, \Gamma, \delta, q_0, Z_0, F)$ un [[Automi a Pila (PDA)|PDA]]/[[Automi a Pila (DPDA)|DPDA]]. Il linguaggio accettato da P per pila vuota e':

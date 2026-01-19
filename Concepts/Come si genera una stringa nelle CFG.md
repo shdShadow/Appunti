@@ -4,7 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 Data una [[Grammatiche CF - CFG|CFG]]  G = {V, T, P, S} e' possibile generare una stringa in 2 modi:
 - [[Derivazione di una stringa in una CFG]]

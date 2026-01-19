@@ -4,7 +4,7 @@ chapter: "6"
 tags:
   - evergreen
   - insight
-known: "False"
+known: "True"
 ---
 Come abbiamo gia' fatto in [[derivazione in zero o piu' passi]], la si definisce in modo induttivo.
 

@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 tags:
   - evergreen
 chapter: 7-8
+known: "False"
 ---
 Il concetto e' molto simile (se non uguale) a quello gia' visto per:
 - [[Automi a Pila (PDA)]]

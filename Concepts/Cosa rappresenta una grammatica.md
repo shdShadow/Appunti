@@ -4,7 +4,7 @@ tags:
   - insight
 course: Linguaggi e Computabilita'
 chapter: "5"
-known: "False"
+known: "True"
 ---
 Una grammatica genera tutte e sole le stringhe di un certo linguaggio L, secondo le [[regole-di-pruduzione|regole di produzione]] applicate sui [[Simboli Terminali|terminali]] e sulle variabili.
 ## Idea

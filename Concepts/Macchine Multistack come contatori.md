@@ -3,6 +3,7 @@ course: Linguaggi e Computabilita'
 chapter: 7-8
 tags:
   - evergreen
+known: "False"
 ---
 ![[Pasted image 20260104114116.png]]
 - Guarda il primo simbolo della porzione di stringa non consumata

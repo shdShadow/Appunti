@@ -3,7 +3,7 @@ tags:
   - "#evergreen"
 course: Linguaggi e Computabilita'
 chapter: Any
-known: "False"
+known: "True"
 ---
 
 # Definizione
