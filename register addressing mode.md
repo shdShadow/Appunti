@@ -1,0 +1,1 @@
+Semplicemente muove dei dati dentro o fuori nei registri come si vede in tutti gli esempi di [[Metodi di accesso in memoria]] per il secondo operando (%eax, %ebx, ...)
