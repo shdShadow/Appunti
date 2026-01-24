@@ -5,7 +5,8 @@ course: Linguaggi e Computabilita'
 chapter: Any
 known: "True"
 ---
-
+# Intro
+Una [[Grammatica]] e' un insieme finito di regole che generano tutte e sole le stringhe di un certo [[Linguaggio]] L.
 # Definizione
 Una **grammatica** e' una quadrupla $G = \{V, T, P, S\}$ dove:
 - V e' l'insieme delle variabili o categorie sintattiche
