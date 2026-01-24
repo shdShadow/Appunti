@@ -1,3 +1,4 @@
 - [[Metodi di accesso in memoria]]
 - [[Istruzioni per muovere dati]]
+- [[Funzioni]]
 - 

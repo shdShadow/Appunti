@@ -5,3 +5,7 @@ Considerando la [[formula generale di accesso in memoria]], in base all'uso di t
 - [[base pointer addressing mode]]
 - [[immediate mode]]
 - [[register addressing mode]]
+
+## Esempi:
+- [[max.s]]
+- [[min.s]]
