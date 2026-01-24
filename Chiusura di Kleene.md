@@ -7,4 +7,9 @@ Questo insieme, tranne in casi particolari, e' un insieme **INFINITO**.
 $\Sigma^*$ e' l'insieme di tutte le [[stringa|stringhe]] di [[stringa#Lunghezza di una stringa|lunghezza]] finita definite su $\Sigma$
 La [[Chiusura di Kleene]] a volte viene espresse in modo piu' compatto anche cosi
 $$ \bigcup_{k \geq 0}\Sigma^k$$
-
+## Insieme particolare: $\Sigma^+$
+Deriva da $\Sigma^*$ ma e' senza la stringa vuota $\varepsilon$, quindi:
+$$ \Sigma^+ = \Sigma^1 \cup \Sigma^2 \cup \Sigma^3 \cup ... $$
+### Connessioni tra i due insiemi:
+- $\Sigma^* = \Sigma^+ \cup \{\varepsilon\}$
+- $\Sigma^+ = \Sigma^* \setminus \{\varepsilon\}$ 
