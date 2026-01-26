@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+chapter: "2"
+known: "False"
+---
 # Intro
 Data una certa [[stringa]] $w = abca$, possiamo immaginarci l'[[Automi a stati finiti|automa]] come un dispositivo che ha:
 - Un insieme finito di stati
@@ -11,23 +18,11 @@ L'automa consuma la [[stringa]] un simbolo alla volta, a partire dall'inizio (il
 > [!caution] : L'automa non prende in input un linguaggio!
 > L'automa prende in input una certa [[stringa]] ma e' costruito per accettare le [[stringa|stringhe]] di un certo [[Linguaggio]]
 
-# Definizione formale di DFA
-Un **DFA** e' una _quintupla_
-$$ A = (Q, \Sigma, \delta, q_0, F) $$
-dove:
-- $Q$ e' l'insieme **finito** e non vuoto di _stati_
-- $\Sigma$ e' l'[[Alfabeto]] delle [[stringa|stringhe]] in ingresso
-- $\delta$ e' la [[funzione di transizione degli stati per automi a stati finiti]]
-- $q_0 \in Q$ e' lo stato iniziale
-- $F \subseteq Q$ e' l'insieme degli **stati finali**
+# [[Definizione formale di Automa a Stati Finiti]]
 # Definizione di linguaggio accettato
 Sia $A = (Q, \Sigma, \delta, q_0, F)$ un [[Automa a Stati Finiti - DFA|DFA]]. Il [[Linguaggio]] accettato da A e':
 $$ L(A) = \{w \in \Sigma^* | \hat\delta(q_0, w) \in F\}$$
-# Tipologia di linguaggi accettati
-Secondo la [[Gerarchia di Chomsky]], i DFA accettano i [[linguaggi regolari]], quindi c'e' un automa che e' in grado di accettare i linguaggi regolari.
-Per ogni [[linguaggi regolari|linguaggio regolare]] potrebbe esistere piu' di un [[Automa a Stati Finiti - DFA|DFA]] che accetta quel linguaggio, pero' ne esiste uno solo particolare detto [[automa minimo]], cioe' quell'automa che ha il minor numero di stati possibili per accettare quel linguaggio.
-- [[DFA e complementi]]
-
+# [[DFA e complementi]]
 # Esempi/Esercizi
 - [[Esempio - DFA che prende in input stringhe binarie e accetta le stringhe contenenti un numero pari di 1]]
 - [[Esercizio1- DFA che accetta tutte e sole le stringhe di 0 e 1 in cui compare almeno una volta la sequenza 01]]

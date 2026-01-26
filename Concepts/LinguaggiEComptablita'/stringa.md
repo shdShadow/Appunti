@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+chapter: "1"
+known: "False"
+---
 Una **stringa** e' una sequenza **finita di simboli** presi da un certo [[Alfabeto]] $\Sigma$
 
 ## Lunghezza di una stringa

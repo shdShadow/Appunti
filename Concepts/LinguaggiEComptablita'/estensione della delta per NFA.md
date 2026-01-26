@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+known: "False"
+---
 Abbiamo visto che la [[funzione di transizione degli stati per NFA]] e' definita nel seguente modo:
 $$ \delta : Q \times \Sigma \to 2^Q $$
 mentre le funzione $\hat \delta$ non prende in input un solo simbolo ma un'intera [[stringa]]

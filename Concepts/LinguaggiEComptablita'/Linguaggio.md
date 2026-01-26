@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "1"
+tags:
+  - evergreen
+known: "False"
+---
 Un linguaggio L su un certo [[Alfabeto]] $\Sigma$ e' un **sottoinsieme di ([[Chiusura di Kleene]]) $\Sigma^*$
 $$ L \subseteq \Sigma^*$$
 ## Sottoinsiemi particolari

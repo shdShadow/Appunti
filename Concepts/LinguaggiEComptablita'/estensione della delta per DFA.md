@@ -1,3 +1,10 @@
+---
+chapter: "2"
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+known: "False"
+---
 # Funzione $\hat \delta$
 
 Abbiamo visto che la [[funzione di transizione degli stati per DFA]] e' definita nel seguente modo:
@@ -16,14 +23,12 @@ Viene fatta per induzione sulla lunghezza della [[stringa]]:
 	- Consideriamo quindi la nostra stringa come _ax_, cioe' un carattere iniziale piu' il resto della stringa. Legge quindi il carattere _a_, applicando il caso della [[funzione di transizione degli stati per DFA|delta]] associato finendo quindi in un certo stato $q \in Q$ . Da quello stato poi riparte con $\hat\delta$, leggendo la stringa x (scomposta poi nuovamente in ax'...), proseguendo con le chiamate ricorsive 
 ### Esempi:
 - [[Esempio di calcolo della delta cappuccio versione intuitiva]]
-
 ## Seconda definizione: "del libro"
 Anche questa viene fatta per induzione sulla lunghezza della [[stringa]]
 - _BASE:_ se $|w| = 0$ allora $\hat\delta(q,w) = \hat\delta(q, \varepsilon) = q \ \forall q \in Q$
 	- Questa rimane invariata rispetto a prima
 - _PASSO_: se $|w| > 0$ e quindi $w = xa$ con $x \in \Sigma^*$ e $a \in \Sigma$ allora $\hat\delta(q,w) = \hat\delta(q,xa) = \delta(\hat\delta(q,x),a)$ 
 	- In questa definizione quindi non isoliamo il primo carattere ma l'ultimo. Rispetto prima, dove prima facevamo la chiamata alla [[funzione di transizione degli stati per DFA|delta]] e poi la chiamata ricorsiva alla $\hat\delta$, qui facciamo prima la chiamata ricorsiva e poi quella "normale"
-
 # [[Trucchetto per il calcolo di delta cappuccio]]
 ### Esempi
 - [[Esempio di calcolo della delta cappuccio versione da libro]]

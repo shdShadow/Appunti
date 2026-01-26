@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+known: "False"
+---
 Per cio' che riguarda gli automi a stati finiti 
 - [[Automa a Stati Finiti - DFA]]
 - [[Automa a stati finiti - NFA]]

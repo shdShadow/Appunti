@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+known: "False"
+---
 E' definita cosi':
 $$ \delta: Q \times \Sigma \to 2^Q $$
 quindi a differenza di [[funzione di transizione degli stati per DFA]], ritorna un insieme di stati e non piu' un singolo stato.

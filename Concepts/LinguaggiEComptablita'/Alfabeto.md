@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "1"
+known: "True"
+tags:
+  - evergreen
+---
 Un **alfabeto** e' un insieme **finito** e **non vuoto** di simboli.
 I simboli possono essere qualsiasi cosa:
 - 0,...,9

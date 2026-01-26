@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+chapter: "1"
+known: "False"
+---
 La [[Chiusura di Kleene]] su un [[Alfabeto]] $\Sigma$
 $$ \Sigma^*$$
 ed e' definita come

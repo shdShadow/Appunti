@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+chapter: "2"
+known: "False"
+---
 ## Rappresentazione della delta
 Solitamente lo si fa in 3 modi:
 1. _Per elencazione_: cioe' vado ad elencare ogni caso della delta per ogni coppia stato-simbolo
