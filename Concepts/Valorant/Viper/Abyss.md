@@ -8,13 +8,18 @@ Jump and throw subito sul salto
 | ![[Pasted image 20260126151029.png]] | ![[Pasted image 20260126151111.png]] |
 | ------------------------------------ | ------------------------------------ |
 
-## Muro
+## Muro 1
 ### Posizionamento
 ![[Pasted image 20260126152257.png]]
 ### Allineamento
 - Mirare non proprio centrale ma leggermente spostato a sinistra
 - Il crosshair deve mirare un po in alto, altrimenti non raggiunge secret
 ![[Pasted image 20260126152507.png]]
+## Muro 2
+### Posizionamento
+![[Pasted image 20260126221023.png]]
+### Allineamento
+![[Pasted image 20260126221043.png]]
 ## Snake bite
 ### Clear left corner:
 
@@ -68,6 +73,21 @@ Mirare all'angolino del triangolo. Jump and throw all'istante
 
 | ![[Pasted image 20260126160721.png]] | ![[Pasted image 20260126160825.png]] |
 | ------------------------------------ | ------------------------------------ |
+### B-Link
+Corri qualche passo, poi jump throw
+#### Posizionamento
+![[Pasted image 20260126222748.png]]
+#### Lineup
+
+| ![[Pasted image 20260126222825.png]] | ![[Pasted image 20260126222851.png]] |
+| ------------------------------------ | ------------------------------------ |
+### Mid Top right side
+#### Posizionamento
+![[Pasted image 20260126223044.png]]
+#### Allineamento
+
+| ![[Pasted image 20260126223116.png]] | ![[Pasted image 20260126223154.png]] |
+| ------------------------------------ | ------------------------------------ |
 
 # Attacco B
 ## Orb heaven da fare insieme al muro
@@ -78,11 +98,18 @@ Mirare il diamante  del secondo indicatore sulla seconda colonnina. Jump and thr
 
 | ![[Pasted image 20260126161951.png]] | ![[Pasted image 20260126162023.png]] |
 | ------------------------------------ | ------------------------------------ |
-## Muro
+## Muro 1
 ### Posizionamento
-![[Pasted image 20260126162154.png]]
+![[Pasted image 20260126221342.png]]
 ### Lineup
-![[Pasted image 20260126162218.png]]
+![[Pasted image 20260126221356.png]]
+## Muro 2
+### Posizionamento
+Contro la barriera pre-round
+
+![[Pasted image 20260126221752.png]]
+### Lineup
+![[Pasted image 20260126221729.png]]
 ## Snake bite 
 ### Backsite
 #### Posizionamento
@@ -91,3 +118,33 @@ Mirare il diamante  del secondo indicatore sulla seconda colonnina. Jump and thr
 
 | ![[Pasted image 20260126162508.png]] | ![[Pasted image 20260126162534.png]] |
 | ------------------------------------ | ------------------------------------ |
+## 2 smoker
+### Lineup per davanti Danger
+#### Posizionamento
+![[Pasted image 20260126215345.png]]
+#### Lineup
+
+| ![[Pasted image 20260126215423.png]] | ![[Pasted image 20260126215444.png]] |
+| ------------------------------------ | ------------------------------------ |
+# Difesa B
+## Setup 1
+### Orb
+![[Pasted image 20260126221925.png]]
+### Muro
+#### Posizionamento
+![[Pasted image 20260126221954.png]]
+#### Lineup
+![[Pasted image 20260126222023.png]]
+
+# Difesa A
+## Setup 1
+### Muro
+#### Posizionamento
+![[Pasted image 20260126222253.png]]
+#### Allineamento
+![[Pasted image 20260126222333.png]]
+### Orb
+#### Posizionamento
+![[Pasted image 20260126222431.png]]
+#### Allineamento
+![[Pasted image 20260126222453.png]]
