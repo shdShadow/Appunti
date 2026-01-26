@@ -1,1 +1,0 @@
-- Sono la base su cui poi tutto (i programmi) si basano.

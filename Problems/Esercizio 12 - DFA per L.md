@@ -1,0 +1,8 @@
+# Concetti utilizzati
+- [[Automa a Stati Finiti - DFA]]
+- [[stringa]]
+- [[Alfabeto]]
+- [[funzione di transizione degli stati per DFA]]
+# Problema
+Costruiamo un DFA per $L = \{x010y | x,y \in \{0,1\}^*\}$
+TODO: immagine 12

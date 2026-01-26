@@ -22,7 +22,7 @@ TODO: immagine gerarchi di chomsky
 - Vengono accettate da [[Automi a Pila (PDA)]]
 # Tipo 3: Regolari
 - Le [[regole di produzione di linguaggi regolari]]
-- Accettati da [[DFA]], [[NFA]], [[Epsilon-NFA]]
+- Accettati da [[DFA]], [[Automa a stati finiti - NFA]], [[Epsilon-NFA]]
 
 # Note:
 E' una gerachia "inclusiva", cioe':
