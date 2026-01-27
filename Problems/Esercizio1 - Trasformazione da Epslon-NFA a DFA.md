@@ -24,7 +24,7 @@ Calcoliamo ora la tabella del DFA:
 - $$\delta_D(\{q_0,q_1,q_2\},b) = ECLOSE(\delta_E(q_0,b) \cup \delta_E(q_1,b) \cup \delta_E(q_2,b)) = ECLOSE(\varnothing \cup \{q_1\} \cup \varnothing) = ECLOSE(\{q_1\}) = ECLOSE(q_1) = \{q_1,q_2\}$$
 - ...
 
-Poi come abbiamo fatto in [[Esercizio1 - Trasformazione da NFA a DFA]], ci chiediamo: _Ci sono insiemi di stati che non abbiamo mai visto?_Si:
+Poi come abbiamo fatto in [[Esercizio1 - Trasformazione da NFA a DFA 1]], ci chiediamo: _Ci sono insiemi di stati che non abbiamo mai visto?_Si:
 - $\{q_1,q_2\}$
 - $\{q_2\}$ 
 _Alcuni di questi sono finali?_ Si, entrambi. Poi li aggiungiamo come righe nella tabella 
