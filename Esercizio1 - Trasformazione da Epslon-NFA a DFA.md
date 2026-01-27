@@ -37,5 +37,5 @@ _Alcuni di questi sono finali?_ Si, entrambi. Poi li aggiungiamo come righe nell
 | *$\{q_2\}$ - C            | $\varnothing$ - D     | $\varnothing$ - D | $\{q_2\}$ - C     |
 | $\varnothing$ - D         | $\varnothing$ - D     | $\varnothing$ - D | $\varnothing$ - D |
 E ora disegniamolo
-TODO: immagine disegno
+![[Pasted image 20260127213834.png]]
 

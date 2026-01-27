@@ -9,7 +9,7 @@
 - [[Epsilon-mossa]]
 - [[Epsilon Chiusura]]
 # Problema
-TODO immagine 2.5.1 p 77
+![[Pasted image 20260127214206.png]]
 
 Calcoliamoci le ECLOSE:
 - $ECLOSE(p) = \{p\}$
@@ -24,4 +24,4 @@ Facciamo ora la tabella del DFA
 | *{p,q,r} | {p,q,r} | {p,q,r} | {p,q,r} |
 - $$\delta_D(\{p,q\},a) = ECLOSE(\delta_E(p,a) \cup \delta_E(q,a)) = ECLOSE(\{p\} \cup \{q\}) = ECLOSE(\{p,q\}) = ECLOSE(p) \cup ECLOSE(q) = \{p\} \cup \{p,q\} = \{p,q\}$$
 Con il relativo disegno
-TODO: immagine DFA
+![[Pasted image 20260127214247.png]]

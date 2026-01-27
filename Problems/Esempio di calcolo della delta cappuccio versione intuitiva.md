@@ -7,7 +7,7 @@
 
 # Problema
 Consideriamo il DFA in figura:
-TODO: immagine 17
+![[Pasted image 20260127212736.png]]
 
 Vediamo ora un esempio di calcolo della [[estensione della delta per DFA|delta cappuccio]] sulla stringa w = 0011
 $$

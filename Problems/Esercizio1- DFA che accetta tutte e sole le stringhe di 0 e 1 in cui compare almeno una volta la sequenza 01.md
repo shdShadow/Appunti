@@ -19,8 +19,8 @@ Quindi:
 - $q_0 \in F$ stato iniziale
 - $F = \{q_2\}$
 - $\delta$ la rappresentiamo con il diagramma degli stati
-TODO: immagine 1
 
+![[Pasted image 20260127205452.png]]
 Scriviamo anche la tabella di transizione
 
 |           | 0     | 1     |

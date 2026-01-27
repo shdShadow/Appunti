@@ -23,7 +23,7 @@ Vediamo come definire i vari componenti dell'automa. Partiamo dalle cose semplic
 ### Esempio di computazione
 - $w = 0110101 \in L$. 
 Usiamo al momento una notazione impropria essendo uno dei primi esempi:
-TODO: immagine esempio
+![[Pasted image 20260127212446.png]]
 Termina la computazione in $q_p$, pertanto la string $w = 0110101$ viene accettata.
 - $w = \varepsilon$? Viene accettata, fa zero passi a partire da $q_p$. Siccome $q_p$ e' accettante, allora la stringa vuota viene accettata dall'automa. 
 ## Tabella di transizione
@@ -34,5 +34,5 @@ Giusto per completezza, rappresentiamo la [[funzione di transizione degli stati 
 | *$\to$$q_p$ | $q_p$ | $q_d$ |
 | $q_d$       | $q_d$ | $q_p$ |
 ## Diagramma degli stati
-TODO: IMMAGINE diagramma degli stati
+![[Pasted image 20260127205240.png]]
 

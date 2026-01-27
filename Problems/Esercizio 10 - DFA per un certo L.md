@@ -5,4 +5,4 @@
 - [[funzione di transizione degli stati per DFA]]
 # Problema
 Costruiamo un [[Automa a Stati Finiti - DFA|DFA]] per $L =\{a^{2k}b^{2h} | k,h \geq 0\}$
-TODO:immagine 10
+![[Pasted image 20260127211207.png]]

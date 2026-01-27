@@ -18,7 +18,7 @@ abbiamo che:
 - ECLOSE($q_2$) = $\{q_2\}$
 
 Altro esempio:
-TODO immagine es p 73
+![[Pasted image 20260127204216.png]]
 - _ECLOSE(1) = {1,2,3,4,6}_
 - _ECLOSE(2) = {2,3,6}_
 - _ECLOSE(3) = {3,6}_

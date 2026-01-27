@@ -8,7 +8,7 @@ Costruiamo un DFA per $L = \{w \in \{0,1\}^*| \text{ le coppie 00 precedono le c
 cioe' dopo 11 (se c'e'), non puo' comparire 00.
 In questo caso ci conviene ragionare sulla stringa piu' corta che non puo' essere accettata: 1100, ed costruiamo il cammino piu' corto in grado che con 1100 l'automa rifiuti.
 
-TODO :immagine 13
+![[Pasted image 20260127211532.png]]
 
 Ragioniamo sugli stati:
 - $q_0$ e' finale, perche' il linguaggio comprende la stringa vuota. Le coppie 00 e 11 non sono obbligate ad esserci

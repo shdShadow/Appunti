@@ -8,4 +8,4 @@ Costruiamo un DFA per $L = \{w \in \{a,b\}^* | \text{ w contiene un numero pari 
 $$
 L = \{a^{2n}b^{2k+1}|n,k \geq 0\}
 $$
-TODO: immagine 8
+![[Pasted image 20260127210931.png]]

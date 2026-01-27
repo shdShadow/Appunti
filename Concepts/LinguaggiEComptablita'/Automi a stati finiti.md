@@ -29,9 +29,8 @@ Se $D = (Q_D, \Sigma, \delta_D, \{q_0\}, F_D)$ e' il [[Automa a Stati Finiti - D
 Anche gli [[Automi a stati finiti - Epsilon-NFA|epsilon NFA]] sono di uguale potenza e non accettano una classe di linguaggi piu' ampia rispetto a quella dei [[linguaggi regolari]]. E come abbiamo visto la [[trasformazione da NFA a DFA]] esiste anche una [[trasformazione da epsilon NFA a DFA]]
 # Perche' usare gli NFA/Epsilon NFA piuttosto che i DFA?
 Per una questione di comodita' di progettazione. Gli NFA sono piu' comodi per ragionare su problemi che richiederebbero un gran numero di stati nei DFA. Tanto per avere una comparazione:
-TODO: immagine nfa p 67
-
-TODO: immagine conversione p 67
+![[Pasted image 20260127203844.png]]
+![[Pasted image 20260127204025.png]]
 # Relazione tra DFA e NFA
 Un [[Automa a Stati Finiti - DFA|DFA]] puo' essere visto come un caso particolare di [[Automa a stati finiti - NFA|NFA]]. Questa cosa la si vede soprattutto con la rappresentazione in forma tabellare
 - Un [[Automa a Stati Finiti - DFA|DFA]] in forma tabellare puo' essere banalmente reso un [[Automa a stati finiti - NFA|NFA]] andando a rendere ogni stato un **singoletto**, cioe' un insieme con un singolo stato

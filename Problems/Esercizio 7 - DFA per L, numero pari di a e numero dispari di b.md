@@ -12,4 +12,4 @@ Per questo motivo ci serviranno 4 stati:
 - $q_{dp}$ che indica "a dispari" e "b pari"
 - $q_{dd}$ che indica "a dispari" e "b dispari"
 - $q_{pd}$ che indica "a pari" e "b dispari"
-TODO immagine 7
+![[Pasted image 20260127210842.png]]

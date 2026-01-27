@@ -13,5 +13,4 @@ Alcune stringhe di esempio:
 	- aaba
 	- acbbbb
 	- acbbb 
-
-TODO immagine 16
+![[Pasted image 20260127212353.png]]

@@ -7,7 +7,7 @@
 - [[Automa a Stati Finiti - DFA]]
 - [[funzione di transizione degli stati per automi a stati finiti]]
 # Problema
-TODO: immagine esempio
+![[Pasted image 20260127214001.png]]
 
 > [!question] Quanti sono gli stati del DFA?
 > Abbiamo visto che $Q_D = 2^{QN}$, quindi sarebbero $2^3 = 8. Pero' non e' detto tutti questi 8 stati siano raggiungibili. Per questo ci conviene scoprire quali stati sono raggiungibili mano mano, invece che scriverli tutti e 8. 
@@ -48,5 +48,5 @@ Allora abbiamo finito. Possiamo anche disegnare il diagramma, aiutandoci assegna
 | $\to$A | B   | A   |
 | B      | B   | C   |
 | *C     | B   | A   |
-TODO: immagine disegno
+![[Pasted image 20260127214049.png]]
 

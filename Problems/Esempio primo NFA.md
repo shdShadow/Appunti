@@ -1,10 +1,10 @@
-TODO: immagine pag 53
+![[Pasted image 20260127213202.png]]
 
 Notiamo subito che se l'automa e' in $q_0$ e legge 0, puo' restare sia in $q_0$ che andare in $q_1$. Secondo cio' che abbiamo detto in [[Computazione e non determinismo NFA]], possiamo quindi pensare che l'automa si sdoppi oppure che l'oracolo ci dica che strada prendere.
 ## Computazioni
 Analizziamo i diversi metodi di computazioni sulla stringa $w = 00101$
 ### Prima visione: copie di automi
-TODO: immagine primo modo
+![[Pasted image 20260127213319.png]]
 Siccome una delle copie accetta la stringa w, allora l'automa accetta la stringa w.
 ### Seconda visione: oracolo
 L'oracolo non percorrerebbe tutti i percorsi come fatto sopra, ma semplicemente segue quello piu' breve che porta l'automa ad accettare.

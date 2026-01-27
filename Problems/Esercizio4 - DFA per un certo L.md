@@ -6,4 +6,4 @@
 # Problema
 Costruiamo un [[Automa a Stati Finiti - DFA|DFA]] per $L = \{0^n1^m | n\geq 0, m > 0\}$.
 La stringa piu' corta che possiamo leggere e' "1".
-TODO: immagine 4
+![[Pasted image 20260127205957.png]]

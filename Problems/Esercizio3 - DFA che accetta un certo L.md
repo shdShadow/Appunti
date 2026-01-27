@@ -14,4 +14,4 @@ Avremo un certo automa che:
 - parte da un certo stato iniziale
 - quando arriva uno zero si sposta in uno stato che si ricorda che fino a quel momento ha letto solo zeri. Quando arriva un 1, si sposta
 - in questo stato si deve ricordare che ora sta leggendo solo 1 dopo solo zeri. Se arriva un zero non va bene e non deve accettare.
-TODO: iommagine 3
+![[Pasted image 20260127205805.png]]
