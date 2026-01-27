@@ -58,3 +58,73 @@ Contro la barriera
 
 | ![[Pasted image 20260127005822.png]] | ![[Pasted image 20260127005852.png]] |
 | ------------------------------------ | ------------------------------------ |
+
+# Walls for attack
+## Wall for B, smoke heaven and alley control
+### Posizionamento
+![[Pasted image 20260127142424.png]]
+### Allineamento
+![[Pasted image 20260127142452.png]]
+## Wall for B in site
+### Posizionamento
+Contro la barriera
+
+![[Pasted image 20260127142747.png]]
+### Allineamento
+![[Pasted image 20260127142826.png]]
+## Wall for A ramps, heaven
+### Posizionamento
+![[Pasted image 20260127143606.png]]
+### Allineamento
+![[Pasted image 20260127143657.png]]
+## Wall in caso di 2 controller + Orb
+### Posizionamento
+![[Pasted image 20260127144035.png]]
+### Allineamento
+![[Pasted image 20260127144047.png]]
+### Posizionamento
+![[Pasted image 20260127144353.png]]
+### Allineamento
+![[Pasted image 20260127144435.png]]
+# Walls for defense
+## Wall for B main, rat spot heaven and smoke mid
+### Posizionamento
+![[Pasted image 20260127143114.png]]
+### Allineamento
+Mirare all'angolino di quella macchia scura
+![[Pasted image 20260127143134.png]]
+## For for A ramps, A main with cube pocket
+### Posizionamento
+![[Pasted image 20260127144912.png]]
+### Allineamento
+Dopo la quinta riga verticale, in mezzo alla sesta
+![[Pasted image 20260127144936.png]]
+## Wall for A site/A main from screen
+### Posizionamento
+![[Pasted image 20260127145147.png]]
+### Allineamento
+![[Pasted image 20260127145303.png]]
+
+# Orb smoke lineups for attack
+## B alley
+### Posizionamento
+![[Pasted image 20260127145644.png]]
+### Allineamento
+Jump throw
+
+| ![[Pasted image 20260127145804.png]] | ![[Pasted image 20260127145826.png]] |
+| ------------------------------------ | ------------------------------------ |
+## B main, to lurk in site
+### Posizionamento
+![[Pasted image 20260127145945.png]]
+### Lineup
+![[Pasted image 20260127150020.png]]
+## A for screen
+### Posizionamento
+![[Pasted image 20260127150332.png]]
+### Lineup
+
+| ![[Pasted image 20260127150401.png]] | ![[Pasted image 20260127150424.png]] |
+| ------------------------------------ | ------------------------------------ |
+
+# Orb smoke lineups for defense?

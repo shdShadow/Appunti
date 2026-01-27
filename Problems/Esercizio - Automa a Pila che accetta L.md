@@ -47,7 +47,7 @@ Scrivere tutti i casi della delta in questo modo e' piuttosto scomodo, pertanto 
 # Osservazione
 Questo linguaggio non puo' essere accettato da nessun [[Automi a Pila (DPDA)]]
 ## Computazione di una stringa
-Proviamo con la stringa $w = 1111$. Essendo di base un [[Epsilon-NFA]], per ogni stato ci possono essere anche piu' mosse possibili quindi:
+Proviamo con la stringa $w = 1111$. Essendo di base un [[Automi a stati finiti - Epsilon-NFA]], per ogni stato ci possono essere anche piu' mosse possibili quindi:
 - o ci avvaliamo dell'[[oracolo]]
 - oppure ogni possibilita' finisce per "sdoppiare" l'automa
 Andremo a rappresentarla con il secondo caso

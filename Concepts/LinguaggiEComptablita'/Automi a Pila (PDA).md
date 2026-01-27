@@ -6,7 +6,7 @@ chapter: "6"
 known: "True"
 ---
 # In soldoni
-Un **automa a pila** e' un [[Epsilon-NFA]] + una **pila** (stack)
+Un **automa a pila** e' un [[Automi a stati finiti - Epsilon-NFA]] + una **pila** (stack)
 
 Ma [[come fa un automa a pila a superare il limite degli stati finiti degli epsilon NFA]]?
 

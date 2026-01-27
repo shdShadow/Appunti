@@ -24,4 +24,6 @@ Abbiamo:
 	$$\delta_D(S,a) = \bigcup\limits_{p \in S} \delta_N(p,a)$$
 	- Quindi la computazione della [[funzione di transizione degli stati per DFA|delta]] per ogni stato S del DFA (dove ogni stato corrisponde ad un sottoinsieme di stati del NFA) equivale all'unione delle computazione della $\delta_N$ del NFA per ogni stato del sottoinsieme S.
 # Esempi
-- [[Esercizio - Trasformazione da NFA a DFA]]
+- [[Problems/Esercizio1 - Trasformazione da NFA a DFA]]
+- [[Esercizio2 - Trasformazione da NFA a DFA]]
+
