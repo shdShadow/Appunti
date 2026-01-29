@@ -11,7 +11,7 @@ Per esempio:
 - $L = \{001,10,111\}$
 - $M = \{\varepsilon, 001\}$
 - $LM = \{001,001001,10,10001,111,111001\}$ 
-Ovviamente non e' commutativa, come abbiamo gia' visto per le stringhe [[[stringa#Concatenazione tra stringhe]].
+Ovviamente non e' commutativa, come abbiamo gia' visto per le stringhe [[stringa#Concatenazione tra stringhe]].
 - $ML = \{001,001001,10,00110,111,00111\}$
 
 ## Chiusura di Kleene
@@ -44,7 +44,14 @@ Esempio:
 > [!important]
 > Questi sono gli UNICI due casi in cui la chiusura di Kleene mi restituisce un linguaggi che non sia un insieme infinito
 
-# Ordine di applicazione degli operatori
+# Precedenza degli operatori
+Dal piu' alto al piu' basso:
 1) Chiusura di Kleene
+	1) Si applica alla sequenza piu' breve  di simboli alla sua SX che formano una [[Espressioni Regolari|ER]] ben formata
+	2) Per esempio, in $01^*$, la chiusura di kleene considera solo '1'
 2) Concatenazione
+	1) E' associativa: $(01)2 = 0(12) = 012$
+	2) Ma non e' **commutativa**
 3) Unione
+	1) E' associativa: $0 + 1 + 2 = (0+1)+2 = 0 + (1 + 2)$
+	2) Commutativa
