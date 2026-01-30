@@ -6,3 +6,4 @@
 - [[Operazioni sui linguaggi]]
 - [[Funzionamento dell'algoritmo per eliminazione degli stati]]
 # Problema
+TODO: immagine di tutto l'esempio

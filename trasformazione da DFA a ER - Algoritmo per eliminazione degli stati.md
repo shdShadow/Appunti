@@ -10,5 +10,4 @@ Se $F = \{q_1, ... , q_n\}$ allora $ER = ER_1 + ER_2 ... + ER_n$ cioe':
 # [[Funzionamento dell'algoritmo per eliminazione degli stati]]
 # Esempi/Esercizi
 - [[Esercizio1 - Primo esempio di trasformazione di DFA in ER]]
-- [[Esercizio2 - Trasformazione da DFA a ER]]
-- 
+- [[Esercizio2 - Trasformazione da DFA a ER]] 
