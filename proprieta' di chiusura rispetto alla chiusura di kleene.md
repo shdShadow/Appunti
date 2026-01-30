@@ -1,0 +1,1 @@
+Se $L \in REG$ allora anche $L^*$ e' regolare. Anche in questo caso ci aiutano le espressioni regolari come abbiamo fatto in [[proprieta' di chiusura rispetto all'unione]]

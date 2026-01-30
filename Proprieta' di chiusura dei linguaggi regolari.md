@@ -1,0 +1,3 @@
+- [[proprieta' di chiusura rispetto all'unione]]
+- [[proprieta' di chiusura rispetto alla concatenazione]]
+- [[proprieta' di chiusura rispetto alla chiusura di kleene]]

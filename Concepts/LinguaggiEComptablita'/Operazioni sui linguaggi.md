@@ -5,6 +5,7 @@ Per esempio: $L = \{001,10,111\}$, $M = \{\varepsilon, 001\}$ allora $L \cup M =
 > [!question] Cosa succede se i due linguaggi sono definiti su [[Alfabeto|alfabeti]] diversi?
 > Bisogna considerare i due linguaggi sull'unione dei loro [[Alfabeto|alfabeti]]
 
+[[proprieta' di chiusura rispetto all'unione]]
 ## Concatenazione
 La indichiamo con $L \cdot M$ oppure solo $LM$ ed e' l'insieme di tutte le concatenazioni possibili tra tutte le stringhe di $L$ e le stringhe di $M$. 
 Per esempio:
@@ -13,6 +14,7 @@ Per esempio:
 - $LM = \{001,001001,10,10001,111,111001\}$ 
 Ovviamente non e' commutativa, come abbiamo gia' visto per le stringhe [[stringa#Concatenazione tra stringhe]].
 - $ML = \{001,001001,10,00110,111,00111\}$
+[[proprieta' di chiusura rispetto alla concatenazione]]
 
 ## Chiusura di Kleene
 Fino ad ora abbiamo visto la [[Chiusura di Kleene]] su un [[Alfabeto]], ma si puo' fare anche sui [[Linguaggio|linguaggi]]. Come per gli [[Alfabeto|alfabeti]] la indichiamo con un *: $L^*$
@@ -43,6 +45,9 @@ Esempio:
 
 > [!important]
 > Questi sono gli UNICI due casi in cui la chiusura di Kleene mi restituisce un linguaggi che non sia un insieme infinito
+[
+
+[[proprieta' di chiusura rispetto alla chiusura di kleene]]
 
 # Precedenza degli operatori
 Dal piu' alto al piu' basso:
