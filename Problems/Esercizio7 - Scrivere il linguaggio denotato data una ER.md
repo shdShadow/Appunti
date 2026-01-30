@@ -2,6 +2,7 @@
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
 - [[Proprieta' algebriche delle espressioni regolari]]
+- [[Linguaggio]]
 # Problemi
 Si consideri la seguente espressione regolare:
 $$L (a(a+b)^*b)$$

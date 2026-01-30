@@ -1,6 +1,7 @@
 # Concetti utilizzatti
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
+- [[Linguaggio]]
 # Problema
 Scrivere la ER pr $L \subseteq \{0,1\}^*$ composto da stringhe che contengono almeno una volta 01.
 Possiamo riscrivere L come $L = \{x01y | x,y \in \{0,1\}^*\}$.

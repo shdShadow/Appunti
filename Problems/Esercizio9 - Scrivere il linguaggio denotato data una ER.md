@@ -2,6 +2,7 @@
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
 - [[Proprieta' algebriche delle espressioni regolari]]
+- [[Linguaggio]]
 # Problema
 Si consideri la seguente ER:
 $$ a(a+b)^*c(a+b)^*c(a+b)^*b$$

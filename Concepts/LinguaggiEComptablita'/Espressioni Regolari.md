@@ -5,6 +5,8 @@ $$a^*b^*c^* \text{ che significa 0 o piu' a, seguite da 0 o piu' b, seguite da 0
 # [[Operazioni sui linguaggi]]
 # [[Definizione induttiva delle espressioni regolari]]
 # [[Proprieta' algebriche delle espressioni regolari]]
+# [[Relazione tra automi a stati finiti ed espressioni regolari]]
+
 
 
 # Esempi/Esercizi
@@ -19,5 +21,12 @@ $$a^*b^*c^* \text{ che significa 0 o piu' a, seguite da 0 o piu' b, seguite da 0
 - [[Esercizio8 - Scrivere il linguaggio ddenotato data una ER]]
 - [[Esercizio9 - Scrivere il linguaggio denotato data una ER]]
 - [[Esercizio10 - Scrivere la ER dato un certo linguaggio]]
+- [[Esercizio11 - Scrivere ER per un certo linguaggio L]]
+- [[Esercizio12 - Scrivere ER per un certo linguaggio L]]
+- [[Esercizio13 - Scrivere ER per un certo linguaggio L]]
+- [[Esercizio14 - Scrivere ER per un certo linguaggio L]]
+- [[Esercizio15 - Scrivere un ER per un certo linguaggio L]]
+- [[Esercizio16 - Scrivere una ER per un certo linguaggio L]]
 - 
+
 

@@ -1,6 +1,7 @@
 # Concetti utilizzatti
 - [[Espressioni Regolari]]
  - [[Operazioni sui linguaggi]]
+ - [[Linguaggio]]
 
 # Problema
 Consideriamo la seguente ER:

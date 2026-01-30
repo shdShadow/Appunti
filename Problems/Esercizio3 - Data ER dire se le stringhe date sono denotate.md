@@ -1,6 +1,7 @@
 # Concetti utilizzatti
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
+- [[Linguaggio]]
 # Problema
 Consideriamo l'ER:
 $$ ((01)^*10(0+1)) $$ Ho un blocco grande che puo' essere preso 0 o piu' volte e composto da diversi blocchi:

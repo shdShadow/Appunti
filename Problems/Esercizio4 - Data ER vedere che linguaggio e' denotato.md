@@ -2,6 +2,7 @@
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
 - [[Proprieta' algebriche delle espressioni regolari]]
+- [[Linguaggio]]
 # Problema
 Vediamo che linguaggio denota $L(0+01^*)$ 
 $$= L(0) + L(01^*) = L(0) \cup L(0)L(1^*) =\{0\} \cup \{0\} \cdot (L(1))^* = \{0\} \cup \{0\} \cdot \{1\}^* = \{0\} \cup \{0,01,011,...\} = \{0,01,011,...\}$$

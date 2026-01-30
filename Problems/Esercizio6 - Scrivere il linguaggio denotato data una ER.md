@@ -2,6 +2,7 @@
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
 - [[Proprieta' algebriche delle espressioni regolari]]
+- [[Linguaggio]]
 # Problemi
 Consideriamo la seguente espressione regolare:
 $$L ((00^*1^*)^*) $$

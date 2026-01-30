@@ -1,6 +1,7 @@
 # Concetti utilizzatti
 - [[Espressioni Regolari]]
 - [[Operazioni sui linguaggi]]
+- [[Linguaggio]]
 # Problema
 Consideriamo l'ER:
 $$ ((01)^* 10(0+1)^*)^* $$
