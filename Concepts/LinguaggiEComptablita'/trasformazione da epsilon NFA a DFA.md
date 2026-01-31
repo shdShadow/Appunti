@@ -4,6 +4,7 @@ L'algoritmo poi ha:
 - _OUTPUT:_ Un [[Automa a Stati Finiti - DFA|DFA]] $D = (Q_D, \Sigma, \delta_D, q_D, F_D)$ equivalente ad E, cioe' tale che $$L(D) = L(E)$$
 1. *$Q_D = 2^{Q_E}$*. Proprio come in [[trasformazione da NFA a DFA]], anche in questo caso ogni stato del [[Automa a Stati Finiti - DFA|DFA]] corrisponde ad un insieme di stati del [[Automa a stati finiti - NFA|NFA]]
 	1. Se $S \in Q_D$ (e quindi $S \subseteq Q_E$) allora ECLOSE(S) = S, cioe' S e' _Epsilon-chiuso_
+	2. Il massimo numero di stati che il [[Automa a Stati Finiti - DFA|DFA]] potra' avere e' $2^{Q_e}$ 
 2. $q_D = ECLOSE(q_0)$
 	1. Questo perche' il DFA in ogni passo di computazione consuma per forza un simbolo della [[stringa]] e si trova in uno stato che rappresenta in quel momento l'insieme di stati in cui si trova l'Epsilon-NFA. Quando partiamo dallo stato iniziale, se collegati a $q_0$ ci sono delle [[Epsilon-mossa|epsilon transizioni]], L'Epsilon-NFA puo' andare in diversi stati senza aver letto ancora nessun simbolo. Per simulare correttamente la cosa, deve tenere conto della cosa e lo fa appunto usando $ECLOSE(q_0)$ e non solo $q_0$ 
 3. $F_D = \{S \in Q_D | S \cap F_E \neq \varnothing\}$
@@ -15,3 +16,5 @@ L'algoritmo poi ha:
 - [[Esercizio1 - Trasformazione da Epslon-NFA a DFA]]
 - [[Esercizio2 - Trasformazione da Epsilon NFA a DFA]]
 - [[Esercizio3 - Trasformazione da Epsilon NFA a DFA]]
+- [[Esercizio4 - Trasformazione da Epsilon NFA a DFA]]
+- 

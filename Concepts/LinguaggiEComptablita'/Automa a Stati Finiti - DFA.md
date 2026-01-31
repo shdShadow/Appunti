@@ -23,6 +23,8 @@ L'automa consuma la [[stringa]] un simbolo alla volta, a partire dall'inizio (il
 Sia $A = (Q, \Sigma, \delta, q_0, F)$ un [[Automa a Stati Finiti - DFA|DFA]]. Il [[Linguaggio]] accettato da A e':
 $$ L(A) = \{w \in \Sigma^* | \hat\delta(q_0, w) \in F\}$$
 # [[DFA e complementi]]
+# [[Automa Minimo]]
+
 # Esempi/Esercizi
 - [[Esempio - DFA che prende in input stringhe binarie e accetta le stringhe contenenti un numero pari di 1]]
 - [[Esercizio1- DFA che accetta tutte e sole le stringhe di 0 e 1 in cui compare almeno una volta la sequenza 01]]
