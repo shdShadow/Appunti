@@ -6,3 +6,10 @@ TODO: immagine proprieta' di chiusura sull'unione
 
 ## Dimostrazione 2
 Se $L,M \in REG$ esistono due [[Espressioni Regolari]] che li denotano. L'ER $L+M$ denota $L \cup M$ che quindi e' un [[linguaggi regolari]]
+
+## Dimostrazione 3
+Posso dimostrare che l'unione di due [[linguaggi regolari]] e' anch'essa regolare anche grazie all'[[automa prodotto]], mantenendo la sua definizione invariata, tranne per l'insieme $F$:
+$$ (F_L \times Q_M)\cup (Q_L, \times F_M)$$
+dove:
+- il primo ci dice che $A_L$ accetta mentre il secondo ci dice che $A_M$ puo' accettare oppure no
+- il secondo ci dice che $A_M$ accetta mentre il primo ci dice che $A_L$ puo' accettare oppure no
