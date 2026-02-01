@@ -4,3 +4,5 @@
 - [[Abyss - Orb smokes for defense]]
 - [[Abyss - Snake bites for attack]]
 - [[Abyss - Snake Bites Lineups]]
+- [[Abyss - Setups]]
+- 

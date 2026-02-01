@@ -6,3 +6,4 @@
 - [[Split - Orb smoke lineups for defense]]
 - [[Split - Snake Bite Lineups]]
 - [[Split - Particular Viper Pits]]
+- [[Split - Setups]]
