@@ -1,5 +1,9 @@
 ---
 chapter: "4"
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+known: "False"
 ---
 Dato un [[Automa a Stati Finiti - DFA|DFA]] $A = (Q, \Sigma, \delta, q_0, F)$, l'**automa minimo** $B$ e' un [[Automa a Stati Finiti - DFA|DFA]] che tra tutti quelli che accettano $L(A)$ contiene il **piu' piccolo numero possibile di stati**.
 

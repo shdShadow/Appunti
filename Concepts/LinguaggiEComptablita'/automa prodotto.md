@@ -1,3 +1,11 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "4"
+known: "False"
+tags:
+  - evergreen
+  - insight
+---
 Dato $A_L = (Q_L, \Sigma, \delta_L, q_L, F_L)$ e $A_M = (Q_M, \Sigma, \delta_M, q_M, F_M)$.
 Costruiamo l'automa $A = (Q_L \times Q_M, \Sigma, \delta, (q_L, q_M), F_L \times F_M)$ dove:
 - $Q_L \times Q_M = \{(p,q) | p \in Q_L \ q \ \in Q_M\}$

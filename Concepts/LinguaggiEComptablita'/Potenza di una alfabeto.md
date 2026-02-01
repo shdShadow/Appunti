@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "1"
+known: "False"
+tags:
+  - evergreen
+---
 
 Dato un [[Alfabeto]] $\Sigma$ e dato un intero $k \geq 0$, definiamo la potenza $\Sigma^k$ come l'insieme delle sequenze di simboli ([[stringa|stringhe]]) di [[stringa#Lunghezza di una stringa|lunghezza]] _k_ formate dai simboli di $\Sigma$
 ## Cardinalita' di una potenza

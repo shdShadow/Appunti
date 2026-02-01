@@ -1,3 +1,11 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+  - insight
+known: "False"
+---
 Vogliamo identificare se un certo numero e' pari oppure no. Io questo numero lo posso codificare in binario oppure in forma decimale ... e posso poi considerare l'insieme di tutte le stringhe che rappresentano numeri naturali pari
 > Dall'insieme di TUTTE le stringhe prendo solo quelle che rappresentano numeri naturali pari
 

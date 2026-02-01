@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+known: "False"
+---
 Viene definita nel seguente modo:
 $$\delta : Q \times (\Sigma \cup \{\varepsilon\}) \to 2^Q$$
 Che e' molto simile a quella che si vede con [[funzione di transizione degli stati per NFA]], con l'unica differenza che ora la funzione puo' prendere in input un simbolo di $\Sigma$ oppure _epsilon_

@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "4"
+tags:
+  - evergreen
+---
 Se $L,M \in REG$ su $\Sigma$, $L \setminus M \in REG$? Si, e vediamo come grazie all'[[automa prodotto]].
 Si ricorda che:
 $$ L \setminus M = \{w  \in \Sigma^* | w \in L \ e \ w \not \in M \}$$

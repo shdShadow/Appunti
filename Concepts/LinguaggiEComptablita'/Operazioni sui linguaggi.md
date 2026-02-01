@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "1"
+tags:
+  - evergreen
+known: "False"
+---
 Supponiamo di avere due linguaggi $L$ e $M \subseteq \Sigma^*$. Le operazioni che possiamo fare sono:
 ## Unione
 La indichiamo con $L \cup M$ ed e' letterlamente **l'unione insiemistica**.

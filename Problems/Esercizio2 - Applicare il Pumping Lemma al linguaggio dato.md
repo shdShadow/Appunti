@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "4"
+tags:
+  - esercizio
+---
 # Concetti utilizzati
 - [[Linguaggio]]
 - [[Pumping Lemma]]

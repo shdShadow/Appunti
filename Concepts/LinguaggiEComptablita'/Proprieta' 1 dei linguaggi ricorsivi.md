@@ -1,3 +1,10 @@
+---
+chapter: 7-8
+course: Linguaggi e Computabilita'
+tags:
+  - evergreen
+known: "False"
+---
 ### Proprieta' 1
 Se $L$ e' **ricorsivo**, il suo complemento sara':
 - Costruisco una [[Macchine di Turing|Mdt]] che dira'

@@ -1,3 +1,11 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "4"
+tags:
+  - evergreen
+  - insight
+known: "False"
+---
 # Stati equivalenti
 Due stati p,q di un [[Automa a Stati Finiti - DFA]] sono _equivalenti_ (indicato con p $\approx$ q) se $\forall w \in \Sigma^*$, ho:
 $$ \hat\delta(p,w) \in F \text{ se e solo se } \hat\delta(q,w) $$

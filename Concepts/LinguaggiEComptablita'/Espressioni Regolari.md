@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+tags:
+  - evergreen
+known: "False"
+---
 # Intro
 Gli [[Automi a stati finiti]] sono un modo per accettare [[linguaggi regolari]], mentre le espressioni regolari sono un **modo per descrivere i [[linguaggi regolari]]**, in gergo tecnico: **denotare**.
 Per esempio:

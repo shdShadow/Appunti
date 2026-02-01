@@ -1,3 +1,11 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "3"
+tags:
+  - evergreen
+---
+
 Per operare questa trasformazione ci serve una funzione: la [[Epsilon Chiusura]]
 L'algoritmo poi ha:
 - _INPUT:_ un [[Automi a stati finiti - Epsilon-NFA|Epsilon-NFA]] $E = (Q_E, \Sigma, \delta_E, q_0, F_e)$

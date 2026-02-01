@@ -1,3 +1,11 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+  - insight
+known: "False"
+---
 la ε-chiusura viene solitamente espressa come _ECLOSE(q)_ e rappresenta **l'insieme di stati raggiungibili da q tramite [[Epsilon-mossa|epsilon transizioni]] piu' q stesso**.
 # Definizione di ECLOSE(q) per Induzione
 - _BASE:_ $q \in ECLOSE(q)$

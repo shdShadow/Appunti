@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+tags:
+  - esercizio
+---
 # Concetti utilizzatti
 - [[Espressioni Regolari]]
  - [[Operazioni sui linguaggi]]

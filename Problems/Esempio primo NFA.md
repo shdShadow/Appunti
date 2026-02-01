@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - esempio
+---
 ![[Pasted image 20260127213202.png]]
 
 Notiamo subito che se l'automa e' in $q_0$ e legge 0, puo' restare sia in $q_0$ che andare in $q_1$. Secondo cio' che abbiamo detto in [[Computazione e non determinismo NFA]], possiamo quindi pensare che l'automa si sdoppi oppure che l'oracolo ci dica che strada prendere.

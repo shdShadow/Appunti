@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: 7-8
+tags:
+  - evergreen
+known: "False"
+---
 ### Proprieta'/Domanda 2
 Se $L$ e' **[[regole di produzione di linguaggi ricorsivamente enumerabili|ricorsivamente enumerabile]]** ma non ricorsivo, esiste una MdT che accetta il suo complemento? E in quale gerarchia di linguaggio si trovano?
 La macchina che accetta L e' la seguente:

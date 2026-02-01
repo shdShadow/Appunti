@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "4"
+tags:
+  - evergreen
+---
 # Intro:
 E' un teorema che mostra una proprieta' dei [[linguaggi regolari]], cioe' se un [[Linguaggio]] non ha questa proprieta', allora non e' un [[linguaggi regolari|linguaggio regolare]].
 ## Ragionamento iniziale/Primo esempio

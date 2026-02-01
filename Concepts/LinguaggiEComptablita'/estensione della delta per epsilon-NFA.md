@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+known: "False"
+---
 Come abbiamo gia' visto in [[estensione della delta per NFA]] e [[estensione della delta per DFA]], la $\hat\delta$ non accetta un solo simbolo in input, ma un intera stringa:
 $$\hat\delta: Q \times \Sigma^* \to 2^Q$$
 percio' ci restituira' un insieme di stati in cui l'automa si trovera' quando parte dallo stato iniziale e consuma tutta la stringa w in input.

@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - evergreen
+known: "False"
+---
 # Intro
 Sono un altro modello di [[Automi a stati finiti]] non deterministico.
 Sono un [[Automa a stati finiti - NFA]] + [[Epsilon-mossa]]

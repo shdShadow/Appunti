@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "3"
+tags:
+  - evergreen
+---
 Per trasformare un [[Automa a Stati Finiti - DFA]] in [[Espressioni Regolari|ER]] usiamo l'**algoritmo per eliminazione degli stati**
 # Intro : Algoritmo per eliminazione degli stati
 - _INPUT:_ [[Automa a Stati Finiti - DFA|DFA]] $A = (Q, \Sigma, \delta, q_0, F)$

@@ -1,3 +1,9 @@
+---
+chapter: "2"
+tags:
+  - esercizio
+course: Linguaggi e Computabilita'
+---
 # Concetti utilizzati
 - [[Automa a Stati Finiti - DFA]]
 - [[stringa]]

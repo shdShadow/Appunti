@@ -1,3 +1,11 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "3"
+tags:
+  - evergreen
+  - insight
+---
 Esiste una correlazione tra [[Espressioni Regolari]] e [[Automi a stati finiti]]([[Automa a Stati Finiti - DFA|DFA]], [[Automi a stati finiti - Epsilon-NFA|Epsilon NFA]] e [[Automa a stati finiti - NFA|NFA]]) e la possiamo vedere grazie a questo schemino:
 ![[Pasted image 20260129171830.png]]
 quindi:

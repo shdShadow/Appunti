@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+known: "False"
+tags:
+  - evergreen
+---
 - _BASE:_
 	1) $\varepsilon$ e $\varnothing$ sono [[Espressioni Regolari]] (ER)
 		- Il [[Linguaggio]] descritto da $\varepsilon$ e' L($\varepsilon$) = $\{\varepsilon\}$

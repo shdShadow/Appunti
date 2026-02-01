@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+tags:
+  - esempio
+---
 # Concetti utilizzati
 - [[Automa a Stati Finiti - DFA]]
 - [[Espressioni Regolari]]

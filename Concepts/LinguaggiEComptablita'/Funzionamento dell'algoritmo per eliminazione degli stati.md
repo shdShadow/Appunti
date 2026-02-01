@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+known: "False"
+tags:
+  - evergreen
+---
 # Funzionamento dell'algoritmo
 - Per prima cosa, trasformiamo i simboli che etichettano gli archi dell'automa in [[Espressioni Regolari]]. Per esempio:
 	![[Pasted image 20260129182552.png]]
@@ -5,7 +12,7 @@
 - Vediamo lo schema che ci consente di togliere uno stato _s_
 	- Stato che non deve essere iniziale
 	- Stato che non deve essere finale
-	TODO: immagine schema
+	![[Pasted image 20260201200341.png]]
 	- Lo stato s da noi considerato avra':
 		- Dei predecessori $\{q_1, ..., q_k\}$ e sono stati che hanno un arco diretto verso s. Ogni arco e' etichettato con una [[Espressioni Regolari|ER]]
 			- $q_1$ ha un arco verso S etichettato con $Q_1$
@@ -17,10 +24,10 @@
 		- Ogni predecessore puo' essere collegato direttamente con i successori. Ogni arco e' etichettato con un espressione regolare $R_{1m}, R_{11}, R_{km}, R_{km}, ...$
 		- Se non esiste un arco che collega certi stati facciamo finta che ci sia ma viene etichettato con $\varnothing$
 - Vogliamo togliere s, modificando le [[Espressioni Regolari]] su tutti gli archi che restano. Rimangono predecessori e successori piu' i collegamenti diretti tra predecessori e successori
- TODO: immagine risultato
+ ![[Pasted image 20260201200836.png]]
  - Per creare le ER sugli archi, guardo quali stati l'arco connette e vedo quali "ER devo consumare" per arrivarci, se ci sono piu' possibilita' sommo le varie ER, altrimenti su uno stesso cammino le concateno
  - Alla fine posso ottenere solo due casi:
-	 - TODO: immagine caso 1
+	 - ![[Pasted image 20260201200855.png]]
 		 - Che ha formula: $ER = (R+SU^*T)^*SU^*$
-	 - TODO: immagine caso 2
+	 - ![[Pasted image 20260201200901.png]]
 		 - Che ha formula $ER = R^*$

@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "2"
+tags:
+  - esercizio
+---
 # Concetti utilizzati
 - [[Automa a stati finiti - Epsilon NFA]]
 - [[stringa]]

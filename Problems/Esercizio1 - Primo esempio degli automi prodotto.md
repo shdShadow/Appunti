@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "4"
+tags:
+  - esempio
+---
 # Concetti utilizzati
 - [[Linguaggio]]
 - [[linguaggi regolari]]
@@ -6,15 +12,13 @@
 - [[stringa]]
 # Problema 
 Consideriamo i due [[Automi a stati finiti]] in figura: $A_L$ e $A_M$
-TODO: immagine 
-
+![[Pasted image 20260201195648.png]]
 e:
 - $A_L$ accetta le [[stringa|stringhe]] binarie che contengono almeno uno 0
 - $A_M$ accetta tutte le [[stringa|stringhe]] binarie che contengono almeno un 1
 L'automa prodotto che ne segue e':
 $A = A_L \otimes A_M$ che accetta $L \cap M = \{w \in \{0,1\}^*| w \text{c ontiene almeno uno 0 e almeno un 1}\}$ 
-TODO: immagine dell'automa prodotto
-
+![[Pasted image 20260201195706.png]]
 - Lo stato iniziale e' la coppia formata dallo stato iniziale di $A_L$ e lo stato iniziale di $A_M$, cioe' (p,r)
 - da (p,r):
 	- Se leggo 0, allora vado in (q,r)

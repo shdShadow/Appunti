@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "4"
+tags:
+  - evergreen
+---
 Se $L \in REG$ su $\Sigma$, anche $\overline{L} \in REG?$ dove 
 $$ \overline{L} = \Sigma^* \setminus L $$
 La risposta e' si.

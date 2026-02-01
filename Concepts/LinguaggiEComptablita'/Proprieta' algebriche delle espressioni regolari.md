@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+known: "False"
+tags:
+  - evergreen
+---
 1) [[Operazioni sui linguaggi|Unione]] e' associativa e commutativa
 2) [[Operazioni sui linguaggi|Concatenazione]] e' associativa ma **non** commutativa
 3) $\varnothing$ e' l'identita' per l'[[Operazioni sui linguaggi|unione]]

@@ -1,3 +1,9 @@
+---
+course: Linguaggi e Computabilita'
+chapter: "3"
+tags:
+  - esercizio
+---
 # Concetti utilizzati
 - [[Automa a Stati Finiti - DFA]]
 - [[Espressioni Regolari]]
@@ -6,4 +12,4 @@
 - [[Operazioni sui linguaggi]]
 - [[Funzionamento dell'algoritmo per eliminazione degli stati]]
 # Problema
-TODO: immagine di tutto l'esempio
+![[Esercizio2 - Trasformazione da DFA a ER.pdf]]

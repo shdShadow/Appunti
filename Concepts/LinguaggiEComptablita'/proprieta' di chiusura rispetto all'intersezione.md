@@ -1,3 +1,10 @@
+---
+course: Linguaggi e Computabilita'
+known: "False"
+chapter: "4"
+tags:
+  - evergreen
+---
 Se $L,M$ sono [[linguaggi regolari]] sull'[[Alfabeto]] $\Sigma$, $L \cap M \in REG$? Si, vediamo la dimostrazione
 ## Dimostrazione tramite [[Espressioni Regolari]]
 L'intersezione $L \cap M$ per le leggi di De Morgan, puo' essere riscritta cosi': $\overline{\overline{L} \cup \overline{M}}$. 

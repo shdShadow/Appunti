@@ -8,7 +8,7 @@ known: "False"
 ---
 Vengono qui classificati i vari linguaggi i quali vengono tutti accettati da un certo tipo di [[Grammatica]] $G = (V,T,P,S)$. 
 Il tipo di essa, e' proprio determinato dalle [[regole-di-pruduzione]]
-TODO: immagine gerarchi di chomsky
+![[Pasted image 20260201210647.png]]
 # Tipo 0: Generali o Ricorsivamente Enumerabili
 - Le [[regole di produzione di linguaggi ricorsivamente enumerabili|regole di produzione]] hanno queste caratteristiche:
 - Vengono accettati da [[Macchine di Turing Deterministiche]]
