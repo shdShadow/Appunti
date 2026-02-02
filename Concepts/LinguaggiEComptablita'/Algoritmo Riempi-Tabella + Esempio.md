@@ -1,16 +1,3 @@
----
-chapter: "4"
-course: Linguaggi e Computabilita'
-tags:
-  - evergreen
-known: "False"
----
-Dato un [[Automa a Stati Finiti - DFA|DFA]] $A = (Q, \Sigma, \delta, q_0, F)$, l'**automa minimo** $B$ e' un [[Automa a Stati Finiti - DFA|DFA]] che tra tutti quelli che accettano $L(A)$ contiene il **piu' piccolo numero possibile di stati**.
-
-Per trovare tale automa minimo c'e' un algoritmo che ci permette di passare da A a B
-Si basa su una nozione di [[equivalenza tra stati]]. E tramite quella relazione, cio' che fa l'[[Automa Minimo]]
-e' prendere come stati le [[classi di equivalenza]] andando a far collassare tutti quegli stati che sono fra loro [[equivalenza tra stati|equivalenti]].
-
 # Algoritmo Iterativo
 L'algoritmo mi permettera' di trovare tutti quegli stati che sono fra loro distinguibili. 
 Questo algoritmo e' un algoritmo **iterativo** che pero' si basa su una proprieta' **ricorsiva** la quale si base sulla nozione di [[equivalenza tra stati]]
@@ -78,4 +65,8 @@ Provando a fare un altra passata notiamo che non scopriamo nulla. Quindi annotia
 - {B,H}
 - {D,F}
 - {C}
-e queste sono le [[classi di equivalenza]].
+e queste sono le [[classi di equivalenza]]. Le classi di equivalenza diventano gli stati dell'[[Automa Minimo]],e tramite la delta, vediamo dove ciascuno stato va a finire
+- gli stati d'arrivo dovranno essere nella stessa classe di equivalenza, altrimenti abbiamo fatto qualcosa di sbagliato
+![[Pasted image 20260202115519.png]]
+## Note:
+- Questo esempio e' fatto dal libro. L'algoritmo ha come primo step quello di rimuovere tutti gli stati non raggiungibili prima di applicare riempi-tabella, quindi nel nostro caso lo stato $D$ sparisce e la classe di equivalenza $\{D,F\}$ diventa $\{F\}$

@@ -11,3 +11,6 @@ I linguaggi regolari sono la classe di linguaggi accettati da [[Automi a stati f
 # [[Pumping Lemma|Dimostrare che un linguaggio non e' regolare: Pumping Lemma]]
 
 # [[Proprieta' di chiusura dei linguaggi regolari]]
+
+# [[Equivalenze tra linguaggi regolari accettati da 2 DFA]]
+
