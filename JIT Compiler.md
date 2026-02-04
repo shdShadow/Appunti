@@ -1,0 +1,1 @@
+Un [[JIT Compiler]] e' un compilatore che traduce il programma in un linguaggio intermedio detto solitamente _bytecode_. L'esecuzione del bytecode viene poi lasciata ad un altra componente software in grado di interpretarlo, come la [[Java Virtual Machine]] per [[Java]]

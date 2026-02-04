@@ -1,7 +1,8 @@
 ---
 dg-publish: true
 ---
-- [[Linguaggi imperativi e a oggetti]]
+- [[Linguaggi imperativi]]
+- [[Programmazione ad oggetti]]
 - [[Linguaggi funzionali]]
 - [[Linguaggi Logici]] 
 - [[Linguaggi di Scripting]]
