@@ -4,7 +4,7 @@ dg-publish: true
 # Storia
 Ideato nel 1954 come _Fortran 0_, poi progettato effettivamente come _Fortran 1_ per il computer [[IBM 704]].
 > E' stato il primo linguaggio creato indipendentemente dalla macchina. I primi linguaggi come [[Il primo linguaggio mai creato - Plankalkul|Plankalkul]], [[Short Code]] e [[Speedcoding]] erano tutti dipendenti dall'architettura della macchina
-
+# Fortran 1
 # [[Indipendenza dei linguaggi dalla macchina]]
 # Scelte progettuali
 l'[[IBM 704]] era un computer all'avanguardia per quei tempi (supportava [[registri]] indice e numeri in virgola mobile). Cio' porto all'idea di linguaggi [[Indipendenza dei linguaggi dalla macchina#Compilazione|Compilati]] (come lo sara' poi il [[Fortran]]) piuttosto che [[Indipendenza dei linguaggi dalla macchina#Interpretazione|Interpretati]].
@@ -14,11 +14,9 @@ l'[[IBM 704]] era un computer all'avanguardia per quei tempi (supportava [[regis
 Perche' con l'hardware di quei tempi era impossibile nascondere il costo computazionale dell'interpretazione.
 Tradotto in italiano:
 > Il processo di traduzione da linguaggio di alto livello a [[Codice Macchina]] sarebbe stato troppo lento e ne avrebbero sofferto le prestazioni del programma.
-
 ## [[Ambiente di sviluppo]] e dominio applicativo
 L'[[Ambiente di sviluppo]] di [[Fortran]] era piuttosto scarno, come del resto era il panorama della programmazione negli anni '50
 > Oltre a compilatori, [[linker]] e [[assembler]] che almeno permettevano al programma di eseguire non c'era nient'altro:
-
 - I computer erano piccoli e inaffidabili (e poco potenti).
 	- Vedo che il [[Fortran]] ha tenuto conto di questa cosa qui: [[Caratteristiche fondamentali di Fortran]], nella parte dove citiamo la mancanza di memorizzazione dinamica.
 - Non esisteva ancora nessuna [[metodologia programmativa]] oppure nessun strumento di programmazione (Ex: IDE)
@@ -39,3 +37,19 @@ IF (X - Y) 10, 20, 30
 30 PRINT 103    
 40 CONTINUE
 ```
+
+# L'evoluzione di Fortran
+Fortran 1 non fu l'unica versione di [[Fortran]] mai creata, ce ne furono diverse:
+- Fortran 95
+- Fortran 2003 
+	- supporto per OOP
+	- puntatori a procedure
+	- Interoperabilita' con C
+- Fortran 2008
+	- blocchi per scope locali
+	- co-array
+	- do-concurrent
+con i loro relativi compilatori aggiornati e con qualche ottimizzazione
+
+# Commenti finali su Fortran
+Per quanto antico e primitivo, [[Fortran]] ha cambiato completamente il modo di utilizzare e programmare sui computer.
