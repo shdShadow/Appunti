@@ -4,6 +4,7 @@ tags:
   - evergreen
 chapter: "6"
 known: "True"
+dg-publish: false
 ---
 Si puo' vedere cio' nella [[Gerarchia di Chomsky]], ma in generale possiamo dire che non accettano tutti i [[CFL - Context Free Language]], a differenza dei [[Automi a Pila (PDA)|PDA]], pertanto sono meno potenti.
 Ci aiuta questo teorema:

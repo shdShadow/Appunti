@@ -33,3 +33,4 @@ Si, a volte si preferisce effettuare delle [[Riduzioni per problemi di indecidib
 
 Grazie alle [[Macchine di Turing#Problemi di Indecidibilita' espressi secondo le macchine di Turing]] con la [[Codifica di MdT come stringhe binarie]], e' possibile determinare quali linguaggi sono indecidibili. Un esempio e' il [[Esempio - Linguaggio di diagonalizzazione|linguaggio di diagonalizzazione]]
 
+
