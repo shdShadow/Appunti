@@ -3,7 +3,9 @@ dg-publish: true
 ---
 # Storia
 Ideato nel 1954 come _Fortran 0_, poi progettato effettivamente come _Fortran 1_ per il computer [[IBM 704]].
-> E' stato il primo linguaggio creato indipendentemente dalla macchina. I primi linguaggi come [[Il primo linguaggio mai creato - Plankalkul|Plankalkul]], [[Short Code]] e [[Speedcoding]] erano tutti dipendenti dall'architettura della macchina
+> E' stato il primo linguaggio progettato in modo che fosse indipendentemente dalla macchina. I primi linguaggi come [[Il primo linguaggio mai creato - Plankalkul|Plankalkul]], [[Short Code]] e [[Speedcoding]] erano tutti dipendenti dall'architettura della macchina
+
+Espresso meglio: [[Fortran]] fu pur sempre creato per l'[[IBM 704]] pero' aveva caratteristiche che lo resero poi portabile su altre architetture (EX: [[compilatore]]) e grazie ad esse il [[Fortran]] lo possiamo usare anche noi sulle nostre macchine.
 # Fortran 1
 # [[Indipendenza dei linguaggi dalla macchina]]
 # Scelte progettuali

@@ -1,0 +1,1 @@
+Sono sottoprogrammi che possono essere eseguiti contemporaneamente con l'esecuzione del nostro programma.

@@ -11,9 +11,27 @@ I programmi che utilizzano linguaggi che fanno parte del paradigma [[Linguaggi i
 	- Dipendente dall'hardware della macchina
 ## Linguaggi imperativi maturi
 1) [[Fortran]] - 1957
-	1) Primo linguaggio indipendente dalla macchina
+	1) Primo progettato con l'[[Indipendenza dei linguaggi dalla macchina]] in mente
 	2) Linguaggio che utilizza la compilazione
 	3) Dominio applicativo scientifico
+2) [[Cobol]] - 1959
+3) [[Algol 60]] - 1960
+	1) Fu il risultato degli sforzi per progettare un linguaggio universale
+	2) Piu' vicino alla nozione matematica, piu' leggibile
+	3) Progettato in modo che potesse essere utilizzato per descrivere processi di calcolo anche in pubblicazioni scientifiche
+	4) Traducibile meccanicamente in linguaggio macchina.
+4) [[APL]] e [[SNOBOL]] - 1962
+	1) Entrambi caratterizzati da tipizzazione dinamica e **allocazione dinamica della memoria**: [[memorizzazione dinamica]] (a differenza di [[Fortran]].)
+	2) Linguaggi con operatori potenti, utilizzati spesso per il pattern matching su stringhe.
+	3) Piu' lento dei linguaggi alternativi del tempo.
+5) [[Basic]] - 1964
+6) [[SIMULA 67]] - 1967
+	1) Basato su [[Algol 60]] e [[SIMULA I]], il suo predecessore. Rispetto a loro due aggiunse:
+		1) **[[coroutine]]**
+		2) **classi oggetti ed ereditarieta'**.
+
+	
+
 
 
 
